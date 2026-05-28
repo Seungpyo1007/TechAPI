@@ -27,7 +27,7 @@ class GPURead(BaseModel):
     stream_processors: int | None = None
     rt_cores: int | None = None
     tensor_cores: int | None = None
-    memory_gb: int
+    memory_gb: float
     memory_type: str
     memory_bus_bit: int
     memory_bandwidth_gbps: float | None = None

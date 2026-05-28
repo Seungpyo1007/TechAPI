@@ -28,7 +28,7 @@ class DiscreteGPU(SQLModel, table=True):
     tensor_cores: int | None = None
 
     # Memory
-    memory_gb: int
+    memory_gb: float
     memory_type: str
     memory_bus_bit: int
     memory_bandwidth_gbps: float | None = None
