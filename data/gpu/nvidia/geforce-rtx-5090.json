@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-rtx-5090",
+  "name": "GeForce RTX 5090",
+  "manufacturer": "nvidia",
+  "architecture": "Blackwell",
+  "release_date": "2025-01-30",
+  "msrp_usd": 1999,
+  "cuda_cores": 21760,
+  "stream_processors": null,
+  "rt_cores": 170,
+  "tensor_cores": 680,
+  "memory_gb": 32,
+  "memory_type": "GDDR7",
+  "memory_bus_bit": 512,
+  "memory_bandwidth_gbps": 1792,
+  "base_clock_mhz": 2017,
+  "boost_clock_mhz": 2407,
+  "tdp_w": 575,
+  "pcie_version": "PCIe 5.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/",
+    "https://www.techpowerup.com/gpu-specs/geforce-rtx-5090.c4216"
+  ]
+}

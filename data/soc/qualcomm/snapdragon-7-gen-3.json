@@ -1,0 +1,27 @@
+{
+  "slug": "snapdragon-7-gen-3",
+  "name": "Snapdragon 7 Gen 3",
+  "manufacturer": "qualcomm",
+  "release_date": "2023-11-16",
+  "process_nm": 4.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "1x Cortex-A720 + 3x A715 + 4x A530",
+    "clocks_ghz": [2.63, 2.4, 1.8]
+  },
+  "gpu_name": "Adreno 720",
+  "gpu_cores": null,
+  "gpu_clock_mhz": 580,
+  "npu_tops": 18.0,
+  "modem": "Snapdragon X62 5G",
+  "geekbench_single": 1550,
+  "geekbench_multi": 4500,
+  "antutu_score": 1100000,
+  "verified": true,
+  "source_urls": [
+    "https://www.qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-7-gen-3-mobile-platform",
+    "https://en.wikipedia.org/wiki/Snapdragon_7_Gen_3"
+  ]
+}

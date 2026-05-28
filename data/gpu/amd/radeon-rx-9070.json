@@ -1,0 +1,27 @@
+{
+  "slug": "radeon-rx-9070",
+  "name": "Radeon RX 9070",
+  "manufacturer": "amd",
+  "architecture": "RDNA 4",
+  "release_date": "2025-03-05",
+  "msrp_usd": 549,
+  "cuda_cores": null,
+  "stream_processors": 3584,
+  "rt_cores": 56,
+  "tensor_cores": null,
+  "memory_gb": 16,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 256,
+  "memory_bandwidth_gbps": 644,
+  "base_clock_mhz": 1608,
+  "boost_clock_mhz": 2520,
+  "tdp_w": 220,
+  "pcie_version": "PCIe 5.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.amd.com/en/products/graphics/desktops/radeon/9000/amd-radeon-rx-9070.html",
+    "https://www.techpowerup.com/gpu-specs/radeon-rx-9070.c4235"
+  ]
+}

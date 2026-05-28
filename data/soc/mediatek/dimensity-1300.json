@@ -1,0 +1,27 @@
+{
+  "slug": "dimensity-1300",
+  "name": "MediaTek Dimensity 1300",
+  "manufacturer": "mediatek",
+  "release_date": "2022-05-11",
+  "process_nm": 6.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "1x Cortex-A78 + 3x A78 + 4x A55",
+    "clocks_ghz": [3.0, 2.6, 2.0]
+  },
+  "gpu_name": "Mali-G77 MC9",
+  "gpu_cores": 9,
+  "gpu_clock_mhz": 836,
+  "npu_tops": 4.5,
+  "modem": "MediaTek M70 5G",
+  "geekbench_single": 990,
+  "geekbench_multi": 3300,
+  "antutu_score": 780000,
+  "verified": true,
+  "source_urls": [
+    "https://www.mediatek.com/products/smartphones-2/dimensity-1300",
+    "https://en.wikipedia.org/wiki/MediaTek_Dimensity_1300"
+  ]
+}

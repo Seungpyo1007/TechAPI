@@ -1,0 +1,27 @@
+{
+  "slug": "apple-a12-bionic",
+  "name": "Apple A12 Bionic",
+  "manufacturer": "apple",
+  "release_date": "2018-09-21",
+  "process_nm": 7.0,
+  "transistors_billion": 6.9,
+  "cpu_config": {
+    "performance": 2,
+    "efficiency": 4,
+    "architecture": "2x Vortex + 4x Tempest",
+    "clocks_ghz": [2.49, 1.59]
+  },
+  "gpu_name": "Apple GPU (4-core)",
+  "gpu_cores": 4,
+  "gpu_clock_mhz": null,
+  "npu_tops": 5.0,
+  "modem": "Intel XMM 7560",
+  "geekbench_single": 1380,
+  "geekbench_multi": 3300,
+  "antutu_score": null,
+  "verified": true,
+  "source_urls": [
+    "https://www.apple.com/iphone-xs/chip/",
+    "https://en.wikipedia.org/wiki/Apple_A12_Bionic"
+  ]
+}

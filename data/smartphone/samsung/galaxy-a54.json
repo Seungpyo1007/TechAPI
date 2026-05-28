@@ -1,0 +1,39 @@
+{
+  "slug": "galaxy-a54",
+  "name": "Galaxy A54 5G",
+  "brand": "samsung",
+  "soc": "exynos-1380",
+  "release_date": "2023-03-24",
+  "msrp_usd": 449,
+  "ram_gb": 8,
+  "storage_options_gb": [128, 256],
+  "display": {
+    "size_inch": 6.4,
+    "resolution": "2340x1080",
+    "refresh_hz": 120,
+    "type": "Super AMOLED",
+    "brightness_nits": 1000,
+    "ppi": 403
+  },
+  "cameras": [
+    {"type": "main", "mp": 50, "aperture": 1.8, "ois": true},
+    {"type": "ultrawide", "mp": 12, "aperture": 2.2, "ois": false},
+    {"type": "macro", "mp": 5, "aperture": 2.4, "ois": false},
+    {"type": "selfie", "mp": 32, "aperture": 2.2}
+  ],
+  "battery_mah": 5000,
+  "charging_wired_w": 25,
+  "charging_wireless_w": 0,
+  "weight_g": 202.0,
+  "dimensions": {"height_mm": 158.2, "width_mm": 76.7, "depth_mm": 8.2},
+  "ip_rating": "IP67",
+  "os": "Android",
+  "os_version": "13",
+  "connectivity": {"wifi": "Wi-Fi 6", "bluetooth": "5.3", "nfc": true, "usb": "USB-C 2.0"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/galaxy-a54.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.samsung.com/global/galaxy/galaxy-a54/specs/",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_A54"
+  ]
+}

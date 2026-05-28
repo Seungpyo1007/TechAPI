@@ -1,0 +1,27 @@
+{
+  "slug": "dimensity-8300",
+  "name": "MediaTek Dimensity 8300",
+  "manufacturer": "mediatek",
+  "release_date": "2023-11-20",
+  "process_nm": 4.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "4x Cortex-A715 + 4x A510",
+    "clocks_ghz": [3.35, 2.2]
+  },
+  "gpu_name": "Mali-G615 MC6",
+  "gpu_cores": 6,
+  "gpu_clock_mhz": 950,
+  "npu_tops": 17.6,
+  "modem": "MediaTek M80 5G",
+  "geekbench_single": 1500,
+  "geekbench_multi": 4800,
+  "antutu_score": 1200000,
+  "verified": true,
+  "source_urls": [
+    "https://www.mediatek.com/products/smartphones-2/dimensity-8300",
+    "https://en.wikipedia.org/wiki/MediaTek_Dimensity_8300"
+  ]
+}

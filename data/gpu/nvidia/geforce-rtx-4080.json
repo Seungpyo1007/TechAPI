@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-rtx-4080",
+  "name": "GeForce RTX 4080",
+  "manufacturer": "nvidia",
+  "architecture": "Ada Lovelace",
+  "release_date": "2022-11-16",
+  "msrp_usd": 1199,
+  "cuda_cores": 9728,
+  "stream_processors": null,
+  "rt_cores": 76,
+  "tensor_cores": 304,
+  "memory_gb": 16,
+  "memory_type": "GDDR6X",
+  "memory_bus_bit": 256,
+  "memory_bandwidth_gbps": 717,
+  "base_clock_mhz": 2205,
+  "boost_clock_mhz": 2505,
+  "tdp_w": 320,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4080/",
+    "https://www.techpowerup.com/gpu-specs/geforce-rtx-4080.c3888"
+  ]
+}

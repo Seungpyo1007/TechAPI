@@ -1,0 +1,39 @@
+{
+  "slug": "iphone-12-pro",
+  "name": "iPhone 12 Pro",
+  "brand": "apple",
+  "soc": "apple-a14-bionic",
+  "release_date": "2020-10-23",
+  "msrp_usd": 999,
+  "ram_gb": 6,
+  "storage_options_gb": [128, 256, 512],
+  "display": {
+    "size_inch": 6.1,
+    "resolution": "2532x1170",
+    "refresh_hz": 60,
+    "type": "Super Retina XDR OLED",
+    "brightness_nits": 800,
+    "ppi": 460
+  },
+  "cameras": [
+    {"type": "main", "mp": 12, "aperture": 1.6, "ois": true},
+    {"type": "ultrawide", "mp": 12, "aperture": 2.4, "ois": false},
+    {"type": "telephoto", "mp": 12, "aperture": 2.0, "ois": true, "optical_zoom": 2},
+    {"type": "selfie", "mp": 12, "aperture": 2.2}
+  ],
+  "battery_mah": 2815,
+  "charging_wired_w": 20,
+  "charging_wireless_w": 15,
+  "weight_g": 187.0,
+  "dimensions": {"height_mm": 146.7, "width_mm": 71.5, "depth_mm": 7.4},
+  "ip_rating": "IP68",
+  "os": "iOS",
+  "os_version": "14",
+  "connectivity": {"wifi": "Wi-Fi 6", "bluetooth": "5.0", "nfc": true, "usb": "Lightning"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/iphone-12-pro.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.apple.com/iphone-12-pro/specs/",
+    "https://en.wikipedia.org/wiki/iPhone_12_Pro"
+  ]
+}

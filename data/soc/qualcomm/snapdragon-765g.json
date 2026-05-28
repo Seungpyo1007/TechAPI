@@ -1,0 +1,27 @@
+{
+  "slug": "snapdragon-765g",
+  "name": "Snapdragon 765G",
+  "manufacturer": "qualcomm",
+  "release_date": "2019-12-09",
+  "process_nm": 7.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 1,
+    "efficiency": 1,
+    "architecture": "Kryo 475",
+    "clocks_ghz": [2.4, 2.2, 1.8]
+  },
+  "gpu_name": "Adreno 620",
+  "gpu_cores": null,
+  "gpu_clock_mhz": 750,
+  "npu_tops": 5.0,
+  "modem": "Snapdragon X52 5G",
+  "geekbench_single": 780,
+  "geekbench_multi": 2100,
+  "antutu_score": 360000,
+  "verified": false,
+  "source_urls": [
+    "https://www.qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-765g-5g-mobile-platform",
+    "https://en.wikipedia.org/wiki/Snapdragon_765"
+  ]
+}

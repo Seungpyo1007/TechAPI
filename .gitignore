@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Databases (local dev)
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated static dump (build artifact; published by refresh-data workflow)
+/dump/
+
+# Local-only handoff notes (private; never committed to the public repo)
+*.local.md
+
+# Local tooling/editor config (kept out of the public repo)
+.claude/
+
+# Note: data/_staging/ (raw collected candidate pool) is intentionally tracked —
+# comprehensive data collection is a purpose of this repo.
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+.mypy_cache/
+.ruff_cache/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store

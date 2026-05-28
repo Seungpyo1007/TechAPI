@@ -1,0 +1,27 @@
+{
+  "slug": "snapdragon-8s-gen-3",
+  "name": "Snapdragon 8s Gen 3",
+  "manufacturer": "qualcomm",
+  "release_date": "2024-03-18",
+  "process_nm": 4.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "1x Cortex-X4 + 3x A720 + 4x A520",
+    "clocks_ghz": [3.0, 2.8, 2.0]
+  },
+  "gpu_name": "Adreno 735",
+  "gpu_cores": null,
+  "gpu_clock_mhz": 680,
+  "npu_tops": 30.0,
+  "modem": "Snapdragon X70 5G",
+  "geekbench_single": 2050,
+  "geekbench_multi": 6500,
+  "antutu_score": 1700000,
+  "verified": true,
+  "source_urls": [
+    "https://www.qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-8s-gen-3-mobile-platform",
+    "https://en.wikipedia.org/wiki/Snapdragon_8s_Gen_3"
+  ]
+}

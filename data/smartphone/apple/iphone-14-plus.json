@@ -1,0 +1,38 @@
+{
+  "slug": "iphone-14-plus",
+  "name": "iPhone 14 Plus",
+  "brand": "apple",
+  "soc": "apple-a15-bionic",
+  "release_date": "2022-10-07",
+  "msrp_usd": 899,
+  "ram_gb": 6,
+  "storage_options_gb": [128, 256, 512],
+  "display": {
+    "size_inch": 6.7,
+    "resolution": "2778x1284",
+    "refresh_hz": 60,
+    "type": "Super Retina XDR OLED",
+    "brightness_nits": 1200,
+    "ppi": 458
+  },
+  "cameras": [
+    {"type": "main", "mp": 12, "aperture": 1.5, "ois": true, "sensor": "Sony IMX703"},
+    {"type": "ultrawide", "mp": 12, "aperture": 2.4, "ois": false},
+    {"type": "selfie", "mp": 12, "aperture": 1.9}
+  ],
+  "battery_mah": 4325,
+  "charging_wired_w": 20,
+  "charging_wireless_w": 15,
+  "weight_g": 203.0,
+  "dimensions": {"height_mm": 160.8, "width_mm": 78.1, "depth_mm": 7.8},
+  "ip_rating": "IP68",
+  "os": "iOS",
+  "os_version": "16",
+  "connectivity": {"wifi": "Wi-Fi 6", "bluetooth": "5.3", "nfc": true, "usb": "USB-C 2.0"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/iphone-14-plus.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.apple.com/iphone-14-plus/specs/",
+    "https://en.wikipedia.org/wiki/IPhone_14"
+  ]
+}

@@ -1,0 +1,24 @@
+name: "✨ Feature request"
+description: Propose a new feature or endpoint
+labels: ["type:feature"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / motivation
+      description: What are you trying to do? Who benefits?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Scope check
+      options:
+        - label: This is generalizable to all consumers (not TechPicks-specific, see ADR-008).
+          required: true

@@ -1,0 +1,38 @@
+{
+  "slug": "pixel-7",
+  "name": "Pixel 7",
+  "brand": "google",
+  "soc": "tensor-g2",
+  "release_date": "2022-10-13",
+  "msrp_usd": 599,
+  "ram_gb": 8,
+  "storage_options_gb": [128, 256],
+  "display": {
+    "size_inch": 6.3,
+    "resolution": "2400x1080",
+    "refresh_hz": 90,
+    "type": "AMOLED",
+    "brightness_nits": 1400,
+    "ppi": 416
+  },
+  "cameras": [
+    {"type": "main", "mp": 50, "aperture": 1.85, "ois": true, "sensor": "Samsung GN1"},
+    {"type": "ultrawide", "mp": 12, "aperture": 2.2, "ois": false},
+    {"type": "selfie", "mp": 10.8, "aperture": 2.2}
+  ],
+  "battery_mah": 4355,
+  "charging_wired_w": 20,
+  "charging_wireless_w": 20,
+  "weight_g": 197.0,
+  "dimensions": {"height_mm": 155.6, "width_mm": 73.2, "depth_mm": 8.7},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "13",
+  "connectivity": {"wifi": "Wi-Fi 6E", "bluetooth": "5.3", "nfc": true, "usb": "USB-C 3.2"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/pixel-7.webp",
+  "verified": true,
+  "source_urls": [
+    "https://store.google.com/us/product/pixel_7_specs",
+    "https://en.wikipedia.org/wiki/Pixel_7"
+  ]
+}

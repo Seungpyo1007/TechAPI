@@ -1,0 +1,28 @@
+name: "✏️ Data correction"
+description: Correct an existing spec value
+labels: ["type:data", "data:incorrect"]
+body:
+  - type: input
+    id: slug
+    attributes:
+      label: Resource slug
+      placeholder: "galaxy-s25"
+    validations:
+      required: true
+  - type: input
+    id: field
+    attributes:
+      label: Field to correct
+      placeholder: "battery_mah"
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Current value → correct value (with source)
+      placeholder: |
+        current: 4500
+        correct: 4000
+        source: https://www.samsung.com/...
+    validations:
+      required: true

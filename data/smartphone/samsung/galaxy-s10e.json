@@ -1,0 +1,38 @@
+{
+  "slug": "galaxy-s10e",
+  "name": "Galaxy S10e",
+  "brand": "samsung",
+  "soc": "exynos-9820",
+  "release_date": "2019-03-08",
+  "msrp_usd": 749,
+  "ram_gb": 6,
+  "storage_options_gb": [128, 256],
+  "display": {
+    "size_inch": 5.8,
+    "resolution": "2280x1080",
+    "refresh_hz": 60,
+    "type": "Dynamic AMOLED",
+    "brightness_nits": 800,
+    "ppi": 438
+  },
+  "cameras": [
+    {"type": "main", "mp": 12, "aperture": 1.5, "ois": true, "sensor": "Sony IMX555"},
+    {"type": "ultrawide", "mp": 16, "aperture": 2.2, "ois": false},
+    {"type": "selfie", "mp": 10, "aperture": 1.9}
+  ],
+  "battery_mah": 3100,
+  "charging_wired_w": 25,
+  "charging_wireless_w": 15,
+  "weight_g": 150.0,
+  "dimensions": {"height_mm": 142.2, "width_mm": 69.9, "depth_mm": 7.9},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "9",
+  "connectivity": {"wifi": "Wi-Fi 5", "bluetooth": "5.0", "nfc": true, "usb": "USB-C 3.1"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/galaxy-s10e.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.samsung.com/global/galaxy/galaxy-s10e/specs/",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_S10"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-rtx-5060",
+  "name": "GeForce RTX 5060",
+  "manufacturer": "nvidia",
+  "architecture": "Blackwell",
+  "release_date": "2025-05-19",
+  "msrp_usd": 299,
+  "cuda_cores": 3840,
+  "stream_processors": null,
+  "rt_cores": 30,
+  "tensor_cores": 120,
+  "memory_gb": 8,
+  "memory_type": "GDDR7",
+  "memory_bus_bit": 128,
+  "memory_bandwidth_gbps": 336,
+  "base_clock_mhz": 2124,
+  "boost_clock_mhz": 2497,
+  "tdp_w": 150,
+  "pcie_version": "PCIe 5.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5060/",
+    "https://www.techpowerup.com/gpu-specs/geforce-rtx-5060.c4221"
+  ]
+}

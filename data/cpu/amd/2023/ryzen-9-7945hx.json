@@ -1,0 +1,30 @@
+{
+  "slug": "ryzen-9-7945hx",
+  "name": "AMD Ryzen 9 7945HX",
+  "manufacturer": "amd",
+  "release_date": "2023-01-03",
+  "segment": "laptop",
+  "architecture": "Zen 4",
+  "socket": "BGA",
+  "process_node": "TSMC N5",
+  "cores": 16,
+  "threads": 32,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 2.5,
+  "boost_clock_ghz": 5.4,
+  "l3_cache_mb": 64.0,
+  "tdp_w": 55,
+  "max_tdp_w": 75,
+  "integrated_graphics": "AMD Radeon 610M",
+  "memory_support": "DDR5-5200 / LPDDR5-6400",
+  "cinebench_r23_single": 2020,
+  "cinebench_r23_multi": 31000,
+  "geekbench_single": 2800,
+  "geekbench_multi": 19000,
+  "verified": true,
+  "source_urls": [
+    "https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-9-7945hx.html",
+    "https://en.wikipedia.org/wiki/Ryzen_7000_series#Dragon_Range"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "core-i7-14700k",
+  "name": "Intel Core i7-14700K",
+  "manufacturer": "intel",
+  "release_date": "2023-10-17",
+  "segment": "desktop",
+  "architecture": "Raptor Lake Refresh",
+  "socket": "LGA1700",
+  "process_node": "Intel 7",
+  "cores": 20,
+  "threads": 28,
+  "p_cores": 8,
+  "e_cores": 12,
+  "base_clock_ghz": 3.4,
+  "boost_clock_ghz": 5.6,
+  "l3_cache_mb": 33.0,
+  "tdp_w": 125,
+  "max_tdp_w": 253,
+  "integrated_graphics": "Intel UHD 770",
+  "memory_support": "DDR5-5600 / DDR4-3200",
+  "cinebench_r23_single": 2150,
+  "cinebench_r23_multi": 35000,
+  "geekbench_single": 2950,
+  "geekbench_multi": 18500,
+  "msrp_usd": 409,
+  "verified": true,
+  "source_urls": [
+    "https://ark.intel.com/content/www/us/en/ark/products/236783/intel-core-i7-processor-14700k-33m-cache-up-to-5-60-ghz.html",
+    "https://en.wikipedia.org/wiki/List_of_Intel_processors#Raptor_Lake_Refresh"
+  ]
+}

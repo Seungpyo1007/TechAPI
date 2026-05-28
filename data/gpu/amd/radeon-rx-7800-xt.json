@@ -1,0 +1,27 @@
+{
+  "slug": "radeon-rx-7800-xt",
+  "name": "Radeon RX 7800 XT",
+  "manufacturer": "amd",
+  "architecture": "RDNA 3",
+  "release_date": "2023-09-06",
+  "msrp_usd": 499,
+  "cuda_cores": null,
+  "stream_processors": 3840,
+  "rt_cores": 60,
+  "tensor_cores": null,
+  "memory_gb": 16,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 256,
+  "memory_bandwidth_gbps": 624,
+  "base_clock_mhz": 1295,
+  "boost_clock_mhz": 2430,
+  "tdp_w": 263,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.amd.com/en/products/graphics/amd-radeon-rx-7800-xt.html",
+    "https://www.techpowerup.com/gpu-specs/radeon-rx-7800-xt.c4011"
+  ]
+}

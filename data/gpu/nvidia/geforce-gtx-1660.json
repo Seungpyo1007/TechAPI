@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-gtx-1660",
+  "name": "GeForce GTX 1660",
+  "manufacturer": "nvidia",
+  "architecture": "Turing",
+  "release_date": "2019-03-14",
+  "msrp_usd": 219,
+  "cuda_cores": 1408,
+  "stream_processors": null,
+  "rt_cores": null,
+  "tensor_cores": null,
+  "memory_gb": 6,
+  "memory_type": "GDDR5",
+  "memory_bus_bit": 192,
+  "memory_bandwidth_gbps": 192,
+  "base_clock_mhz": 1530,
+  "boost_clock_mhz": 1785,
+  "tdp_w": 120,
+  "pcie_version": "PCIe 3.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/gtx-1660/",
+    "https://www.techpowerup.com/gpu-specs/geforce-gtx-1660.c3365"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "core-ultra-9-185h",
+  "name": "Intel Core Ultra 9 185H",
+  "manufacturer": "intel",
+  "release_date": "2024-01-06",
+  "segment": "laptop",
+  "architecture": "Meteor Lake",
+  "socket": "BGA",
+  "process_node": "Intel 4",
+  "cores": 16,
+  "threads": 22,
+  "p_cores": 6,
+  "e_cores": 8,
+  "base_clock_ghz": 2.3,
+  "boost_clock_ghz": 5.1,
+  "l3_cache_mb": 24.0,
+  "tdp_w": 45,
+  "max_tdp_w": 115,
+  "integrated_graphics": "Intel Arc Graphics (8 Xe-cores)",
+  "memory_support": "DDR5-5600 / LPDDR5x-7467",
+  "cinebench_r23_single": 1900,
+  "cinebench_r23_multi": 17000,
+  "geekbench_single": 2700,
+  "geekbench_multi": 13000,
+  "msrp_usd": 583,
+  "verified": true,
+  "source_urls": [
+    "https://ark.intel.com/content/www/us/en/ark/products/236847/intel-core-ultra-9-processor-185h-24m-cache-up-to-5-10-ghz.html",
+    "https://en.wikipedia.org/wiki/Meteor_Lake"
+  ]
+}

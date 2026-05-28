@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-rtx-4070-super",
+  "name": "GeForce RTX 4070 Super",
+  "manufacturer": "nvidia",
+  "architecture": "Ada Lovelace",
+  "release_date": "2024-01-17",
+  "msrp_usd": 599,
+  "cuda_cores": 7168,
+  "stream_processors": null,
+  "rt_cores": 56,
+  "tensor_cores": 224,
+  "memory_gb": 12,
+  "memory_type": "GDDR6X",
+  "memory_bus_bit": 192,
+  "memory_bandwidth_gbps": 504,
+  "base_clock_mhz": 1980,
+  "boost_clock_mhz": 2475,
+  "tdp_w": 220,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4070-super/",
+    "https://www.techpowerup.com/gpu-specs/geforce-rtx-4070-super.c4029"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-rtx-2070",
+  "name": "GeForce RTX 2070",
+  "manufacturer": "nvidia",
+  "architecture": "Turing",
+  "release_date": "2018-10-17",
+  "msrp_usd": 499,
+  "cuda_cores": 2304,
+  "stream_processors": null,
+  "rt_cores": 36,
+  "tensor_cores": 288,
+  "memory_gb": 8,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 256,
+  "memory_bandwidth_gbps": 448,
+  "base_clock_mhz": 1410,
+  "boost_clock_mhz": 1620,
+  "tdp_w": 175,
+  "pcie_version": "PCIe 3.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/rtx-2070/",
+    "https://www.techpowerup.com/gpu-specs/geforce-rtx-2070.c3244"
+  ]
+}

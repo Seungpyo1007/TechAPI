@@ -1,0 +1,30 @@
+{
+  "slug": "core-i9-14900hx",
+  "name": "Intel Core i9-14900HX",
+  "manufacturer": "intel",
+  "release_date": "2024-01-06",
+  "segment": "laptop",
+  "architecture": "Raptor Lake Refresh",
+  "socket": "BGA",
+  "process_node": "Intel 7",
+  "cores": 24,
+  "threads": 32,
+  "p_cores": 8,
+  "e_cores": 16,
+  "base_clock_ghz": 2.2,
+  "boost_clock_ghz": 5.8,
+  "l3_cache_mb": 36.0,
+  "tdp_w": 55,
+  "max_tdp_w": 157,
+  "integrated_graphics": "Intel UHD Graphics",
+  "memory_support": "DDR5-5600 / DDR4-3200",
+  "cinebench_r23_single": 2180,
+  "cinebench_r23_multi": 35000,
+  "geekbench_single": 2950,
+  "geekbench_multi": 19000,
+  "verified": true,
+  "source_urls": [
+    "https://ark.intel.com/content/www/us/en/ark/products/236847/intel-core-i9-processor-14900hx-36m-cache-up-to-5-80-ghz.html",
+    "https://en.wikipedia.org/wiki/List_of_Intel_processors#Raptor_Lake_Refresh"
+  ]
+}

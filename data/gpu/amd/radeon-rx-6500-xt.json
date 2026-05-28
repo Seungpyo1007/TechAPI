@@ -1,0 +1,27 @@
+{
+  "slug": "radeon-rx-6500-xt",
+  "name": "Radeon RX 6500 XT",
+  "manufacturer": "amd",
+  "architecture": "RDNA 2",
+  "release_date": "2022-01-19",
+  "msrp_usd": 199,
+  "cuda_cores": null,
+  "stream_processors": 1024,
+  "rt_cores": 16,
+  "tensor_cores": null,
+  "memory_gb": 4,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 64,
+  "memory_bandwidth_gbps": 144,
+  "base_clock_mhz": 2310,
+  "boost_clock_mhz": 2815,
+  "tdp_w": 107,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.amd.com/en/products/graphics/desktops/radeon/6000-series/amd-radeon-rx-6500-xt.html",
+    "https://www.techpowerup.com/gpu-specs/radeon-rx-6500-xt.c3743"
+  ]
+}

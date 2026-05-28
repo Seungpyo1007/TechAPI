@@ -1,0 +1,38 @@
+{
+  "slug": "pixel-5",
+  "name": "Google Pixel 5",
+  "brand": "google",
+  "soc": "snapdragon-765g",
+  "release_date": "2020-10-15",
+  "msrp_usd": 699,
+  "ram_gb": 8,
+  "storage_options_gb": [128],
+  "display": {
+    "size_inch": 6.0,
+    "resolution": "2340x1080",
+    "refresh_hz": 90,
+    "type": "OLED",
+    "brightness_nits": 432,
+    "ppi": 432
+  },
+  "cameras": [
+    {"type": "main", "mp": 12.2, "aperture": 1.7, "ois": true, "sensor": "Sony IMX363"},
+    {"type": "ultrawide", "mp": 16, "aperture": 2.2, "ois": false},
+    {"type": "selfie", "mp": 8, "aperture": 2.0}
+  ],
+  "battery_mah": 4080,
+  "charging_wired_w": 18,
+  "charging_wireless_w": 12,
+  "weight_g": 151.0,
+  "dimensions": {"height_mm": 144.7, "width_mm": 70.4, "depth_mm": 8.0},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "11",
+  "connectivity": {"wifi": "Wi-Fi 6", "bluetooth": "5.0", "nfc": true, "usb": "USB-C 3.1"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/pixel-5.webp",
+  "verified": true,
+  "source_urls": [
+    "https://store.google.com/product/pixel_5_specs",
+    "https://en.wikipedia.org/wiki/Pixel_5"
+  ]
+}

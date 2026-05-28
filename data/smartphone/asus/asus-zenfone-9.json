@@ -1,0 +1,38 @@
+{
+  "slug": "asus-zenfone-9",
+  "name": "ASUS Zenfone 9",
+  "brand": "asus",
+  "soc": "snapdragon-8-plus-gen-1",
+  "release_date": "2022-07-28",
+  "msrp_usd": 699,
+  "ram_gb": 8,
+  "storage_options_gb": [128, 256],
+  "display": {
+    "size_inch": 5.9,
+    "resolution": "2400x1080",
+    "refresh_hz": 120,
+    "type": "AMOLED",
+    "brightness_nits": 1100,
+    "ppi": 445
+  },
+  "cameras": [
+    {"type": "main", "mp": 50, "aperture": 1.9, "ois": true, "sensor": "Sony IMX766"},
+    {"type": "ultrawide", "mp": 12, "aperture": 2.2, "ois": false},
+    {"type": "selfie", "mp": 12, "aperture": 2.45}
+  ],
+  "battery_mah": 4300,
+  "charging_wired_w": 30,
+  "charging_wireless_w": 0,
+  "weight_g": 169.0,
+  "dimensions": {"height_mm": 146.5, "width_mm": 68.1, "depth_mm": 9.1},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "12",
+  "connectivity": {"wifi": "Wi-Fi 6E", "bluetooth": "5.2", "nfc": true, "usb": "USB-C 3.1"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/asus-zenfone-9.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.asus.com/mobile-handhelds/phones/zenfone/asus-zenfone-9/",
+    "https://en.wikipedia.org/wiki/Asus_Zenfone_9"
+  ]
+}

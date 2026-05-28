@@ -1,0 +1,39 @@
+{
+  "slug": "xiaomi-13-pro",
+  "name": "Xiaomi 13 Pro",
+  "brand": "xiaomi",
+  "soc": "snapdragon-8-gen-2",
+  "release_date": "2023-02-26",
+  "msrp_usd": 1299,
+  "ram_gb": 12,
+  "storage_options_gb": [128, 256, 512],
+  "display": {
+    "size_inch": 6.73,
+    "resolution": "3200x1440",
+    "refresh_hz": 120,
+    "type": "LTPO AMOLED",
+    "brightness_nits": 2800,
+    "ppi": 522
+  },
+  "cameras": [
+    {"type": "main", "mp": 50, "aperture": 1.9, "ois": true, "sensor": "Sony IMX989"},
+    {"type": "ultrawide", "mp": 50, "aperture": 2.2, "ois": false},
+    {"type": "telephoto", "mp": 50, "aperture": 3.0, "ois": true, "optical_zoom": 3},
+    {"type": "selfie", "mp": 32, "aperture": 2.0}
+  ],
+  "battery_mah": 4820,
+  "charging_wired_w": 120,
+  "charging_wireless_w": 50,
+  "weight_g": 210.0,
+  "dimensions": {"height_mm": 162.9, "width_mm": 74.6, "depth_mm": 8.38},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "13",
+  "connectivity": {"wifi": "Wi-Fi 6E", "bluetooth": "5.3", "nfc": true, "usb": "USB-C 2.0"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/xiaomi-13-pro.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.mi.com/global/product/xiaomi-13-pro",
+    "https://en.wikipedia.org/wiki/Xiaomi_13_Pro"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-rtx-2080",
+  "name": "GeForce RTX 2080",
+  "manufacturer": "nvidia",
+  "architecture": "Turing",
+  "release_date": "2018-09-20",
+  "msrp_usd": 699,
+  "cuda_cores": 2944,
+  "stream_processors": null,
+  "rt_cores": 46,
+  "tensor_cores": 368,
+  "memory_gb": 8,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 256,
+  "memory_bandwidth_gbps": 448,
+  "base_clock_mhz": 1515,
+  "boost_clock_mhz": 1710,
+  "tdp_w": 215,
+  "pcie_version": "PCIe 3.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/rtx-2080/",
+    "https://www.techpowerup.com/gpu-specs/geforce-rtx-2080.c3243"
+  ]
+}

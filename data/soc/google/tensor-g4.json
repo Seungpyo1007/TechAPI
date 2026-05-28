@@ -1,0 +1,27 @@
+{
+  "slug": "tensor-g4",
+  "name": "Google Tensor G4",
+  "manufacturer": "google",
+  "release_date": "2024-08-13",
+  "process_nm": 4.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 1,
+    "efficiency": 7,
+    "architecture": "1x Cortex-X4 + 3x A720 + 4x A520",
+    "clocks_ghz": [3.1, 2.6, 1.95]
+  },
+  "gpu_name": "Mali-G715 MP7",
+  "gpu_cores": 7,
+  "gpu_clock_mhz": 940,
+  "npu_tops": null,
+  "modem": "Samsung Exynos Modem 5300",
+  "geekbench_single": 1700,
+  "geekbench_multi": 4400,
+  "antutu_score": 1100000,
+  "verified": true,
+  "source_urls": [
+    "https://store.google.com/product/pixel_9_specs",
+    "https://en.wikipedia.org/wiki/Google_Tensor"
+  ]
+}

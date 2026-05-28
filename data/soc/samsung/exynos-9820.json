@@ -1,0 +1,27 @@
+{
+  "slug": "exynos-9820",
+  "name": "Samsung Exynos 9820",
+  "manufacturer": "samsung",
+  "release_date": "2019-01-15",
+  "process_nm": 8.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 2,
+    "efficiency": 2,
+    "architecture": "Mongoose M4 + Cortex-A75",
+    "clocks_ghz": [2.73, 2.31, 1.95]
+  },
+  "gpu_name": "Mali-G76 MP12",
+  "gpu_cores": 12,
+  "gpu_clock_mhz": 702,
+  "npu_tops": 2.8,
+  "modem": "Exynos Modem 5100",
+  "geekbench_single": 820,
+  "geekbench_multi": 2500,
+  "antutu_score": 360000,
+  "verified": false,
+  "source_urls": [
+    "https://semiconductor.samsung.com/us/consumer-storage/support/products/exynos-9820/",
+    "https://en.wikipedia.org/wiki/Exynos_9820"
+  ]
+}

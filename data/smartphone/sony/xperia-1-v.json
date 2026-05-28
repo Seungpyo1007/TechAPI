@@ -1,0 +1,39 @@
+{
+  "slug": "xperia-1-v",
+  "name": "Xperia 1 V",
+  "brand": "sony",
+  "soc": "snapdragon-8-gen-2",
+  "release_date": "2023-07-14",
+  "msrp_usd": 1399,
+  "ram_gb": 12,
+  "storage_options_gb": [256],
+  "display": {
+    "size_inch": 6.5,
+    "resolution": "3840x1644",
+    "refresh_hz": 120,
+    "type": "4K OLED",
+    "brightness_nits": 2000,
+    "ppi": 643
+  },
+  "cameras": [
+    {"type": "main", "mp": 48, "aperture": 1.9, "ois": true, "sensor": "Sony IMX888"},
+    {"type": "ultrawide", "mp": 12, "aperture": 2.2, "ois": false},
+    {"type": "telephoto", "mp": 12, "aperture": 2.3, "ois": true, "optical_zoom": 3},
+    {"type": "selfie", "mp": 12, "aperture": 2.0}
+  ],
+  "battery_mah": 5000,
+  "charging_wired_w": 30,
+  "charging_wireless_w": 0,
+  "weight_g": 187.0,
+  "dimensions": {"height_mm": 165.0, "width_mm": 71.0, "depth_mm": 8.3},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "13",
+  "connectivity": {"wifi": "Wi-Fi 6E", "bluetooth": "5.3", "nfc": true, "usb": "USB-C 3.2"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/xperia-1-v.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.sony.com/en/articles/xperia-1-v-specifications",
+    "https://en.wikipedia.org/wiki/Sony_Xperia_1_V"
+  ]
+}

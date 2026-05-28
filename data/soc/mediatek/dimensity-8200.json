@@ -1,0 +1,27 @@
+{
+  "slug": "dimensity-8200",
+  "name": "MediaTek Dimensity 8200",
+  "manufacturer": "mediatek",
+  "release_date": "2022-12-15",
+  "process_nm": 4.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "1x Cortex-A78 + 3x A78 + 4x A55",
+    "clocks_ghz": [3.1, 3.0, 2.0]
+  },
+  "gpu_name": "Mali-G610 MC6",
+  "gpu_cores": 6,
+  "gpu_clock_mhz": 900,
+  "npu_tops": null,
+  "modem": "MediaTek M80 5G",
+  "geekbench_single": 1300,
+  "geekbench_multi": 4100,
+  "antutu_score": 1000000,
+  "verified": true,
+  "source_urls": [
+    "https://www.mediatek.com/products/smartphones-2/dimensity-8200",
+    "https://en.wikipedia.org/wiki/MediaTek_Dimensity_8200"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-rtx-2060-super",
+  "name": "GeForce RTX 2060 Super",
+  "manufacturer": "nvidia",
+  "architecture": "Turing",
+  "release_date": "2019-07-09",
+  "msrp_usd": 399,
+  "cuda_cores": 2176,
+  "stream_processors": null,
+  "rt_cores": 34,
+  "tensor_cores": 272,
+  "memory_gb": 8,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 256,
+  "memory_bandwidth_gbps": 448,
+  "base_clock_mhz": 1470,
+  "boost_clock_mhz": 1650,
+  "tdp_w": 175,
+  "pcie_version": "PCIe 3.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/rtx-2060-super/",
+    "https://www.techpowerup.com/gpu-specs/geforce-rtx-2060-super.c3441"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "snapdragon-8-plus-gen-1",
+  "name": "Snapdragon 8+ Gen 1",
+  "manufacturer": "qualcomm",
+  "release_date": "2022-05-20",
+  "process_nm": 4.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "1x Cortex-X2 + 3x A710 + 4x A510",
+    "clocks_ghz": [3.2, 2.75, 2.0]
+  },
+  "gpu_name": "Adreno 730",
+  "gpu_cores": null,
+  "gpu_clock_mhz": 900,
+  "npu_tops": 29.0,
+  "modem": "Snapdragon X65 5G",
+  "geekbench_single": 1600,
+  "geekbench_multi": 4800,
+  "antutu_score": 1200000,
+  "verified": true,
+  "source_urls": [
+    "https://www.qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-8-plus-gen-1-mobile-platform",
+    "https://en.wikipedia.org/wiki/Snapdragon_8_Plus_Gen_1"
+  ]
+}

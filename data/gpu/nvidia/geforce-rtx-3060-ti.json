@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-rtx-3060-ti",
+  "name": "GeForce RTX 3060 Ti",
+  "manufacturer": "nvidia",
+  "architecture": "Ampere",
+  "release_date": "2020-12-02",
+  "msrp_usd": 399,
+  "cuda_cores": 4864,
+  "stream_processors": null,
+  "rt_cores": 38,
+  "tensor_cores": 152,
+  "memory_gb": 8,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 256,
+  "memory_bandwidth_gbps": 448,
+  "base_clock_mhz": 1410,
+  "boost_clock_mhz": 1665,
+  "tdp_w": 200,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3060-ti/",
+    "https://www.techpowerup.com/gpu-specs/geforce-rtx-3060-ti.c3681"
+  ]
+}

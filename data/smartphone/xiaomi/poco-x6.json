@@ -1,0 +1,39 @@
+{
+  "slug": "poco-x6",
+  "name": "POCO X6",
+  "brand": "xiaomi",
+  "soc": "snapdragon-7s-gen-2",
+  "release_date": "2024-01-11",
+  "msrp_usd": 299,
+  "ram_gb": 8,
+  "storage_options_gb": [256],
+  "display": {
+    "size_inch": 6.67,
+    "resolution": "2712x1220",
+    "refresh_hz": 120,
+    "type": "AMOLED",
+    "brightness_nits": 1800,
+    "ppi": 446
+  },
+  "cameras": [
+    {"type": "main", "mp": 64, "aperture": 1.79, "ois": true, "sensor": "OmniVision OV64B"},
+    {"type": "ultrawide", "mp": 8, "aperture": 2.2, "ois": false},
+    {"type": "macro", "mp": 2, "aperture": 2.4, "ois": false},
+    {"type": "selfie", "mp": 20, "aperture": 2.24}
+  ],
+  "battery_mah": 5100,
+  "charging_wired_w": 67,
+  "charging_wireless_w": 0,
+  "weight_g": 181.0,
+  "dimensions": {"height_mm": 161.2, "width_mm": 74.3, "depth_mm": 7.98},
+  "ip_rating": "IP54",
+  "os": "Android",
+  "os_version": "14",
+  "connectivity": {"wifi": "Wi-Fi 6E", "bluetooth": "5.2", "nfc": true, "usb": "USB-C 2.0"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/poco-x6.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.mi.com/global/product/poco-x6",
+    "https://en.wikipedia.org/wiki/POCO_X6"
+  ]
+}

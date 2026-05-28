@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-rtx-2060",
+  "name": "GeForce RTX 2060",
+  "manufacturer": "nvidia",
+  "architecture": "Turing",
+  "release_date": "2019-01-15",
+  "msrp_usd": 349,
+  "cuda_cores": 1920,
+  "stream_processors": null,
+  "rt_cores": 30,
+  "tensor_cores": 240,
+  "memory_gb": 6,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 192,
+  "memory_bandwidth_gbps": 336,
+  "base_clock_mhz": 1365,
+  "boost_clock_mhz": 1680,
+  "tdp_w": 160,
+  "pcie_version": "PCIe 3.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/rtx-2060/",
+    "https://www.techpowerup.com/gpu-specs/geforce-rtx-2060.c3304"
+  ]
+}

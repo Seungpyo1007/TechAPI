@@ -1,0 +1,31 @@
+{
+  "slug": "ryzen-5-5600x",
+  "name": "AMD Ryzen 5 5600X",
+  "manufacturer": "amd",
+  "release_date": "2020-11-05",
+  "segment": "desktop",
+  "architecture": "Zen 3",
+  "socket": "AM4",
+  "process_node": "TSMC N7",
+  "cores": 6,
+  "threads": 12,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 3.7,
+  "boost_clock_ghz": 4.6,
+  "l3_cache_mb": 32.0,
+  "tdp_w": 65,
+  "max_tdp_w": 88,
+  "integrated_graphics": null,
+  "memory_support": "DDR4-3200",
+  "cinebench_r23_single": 1640,
+  "cinebench_r23_multi": 11500,
+  "geekbench_single": 2220,
+  "geekbench_multi": 8000,
+  "msrp_usd": 299,
+  "verified": true,
+  "source_urls": [
+    "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-5-5600x.html",
+    "https://en.wikipedia.org/wiki/Zen_3"
+  ]
+}

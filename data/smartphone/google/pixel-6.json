@@ -1,0 +1,38 @@
+{
+  "slug": "pixel-6",
+  "name": "Pixel 6",
+  "brand": "google",
+  "soc": "google-tensor",
+  "release_date": "2021-10-28",
+  "msrp_usd": 599,
+  "ram_gb": 8,
+  "storage_options_gb": [128, 256],
+  "display": {
+    "size_inch": 6.4,
+    "resolution": "2400x1080",
+    "refresh_hz": 90,
+    "type": "AMOLED",
+    "brightness_nits": 800,
+    "ppi": 411
+  },
+  "cameras": [
+    {"type": "main", "mp": 50, "aperture": 1.85, "ois": true, "sensor": "Samsung GN1"},
+    {"type": "ultrawide", "mp": 12, "aperture": 2.2, "ois": false},
+    {"type": "selfie", "mp": 8, "aperture": 2.0}
+  ],
+  "battery_mah": 4614,
+  "charging_wired_w": 30,
+  "charging_wireless_w": 21,
+  "weight_g": 207.0,
+  "dimensions": {"height_mm": 158.6, "width_mm": 74.8, "depth_mm": 8.9},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "12",
+  "connectivity": {"wifi": "Wi-Fi 6E", "bluetooth": "5.2", "nfc": true, "usb": "USB-C 3.2"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/pixel-6.webp",
+  "verified": true,
+  "source_urls": [
+    "https://store.google.com/us/product/pixel_6_specs",
+    "https://en.wikipedia.org/wiki/Pixel_6"
+  ]
+}

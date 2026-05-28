@@ -1,0 +1,27 @@
+{
+  "slug": "dimensity-1200",
+  "name": "MediaTek Dimensity 1200",
+  "manufacturer": "mediatek",
+  "release_date": "2021-01-20",
+  "process_nm": 6.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "1x Cortex-A78 + 3x A78 + 4x A55",
+    "clocks_ghz": [3.0, 2.6, 2.0]
+  },
+  "gpu_name": "Mali-G77 MC9",
+  "gpu_cores": 9,
+  "gpu_clock_mhz": 836,
+  "npu_tops": 4.5,
+  "modem": "MediaTek M70 5G",
+  "geekbench_single": 960,
+  "geekbench_multi": 3200,
+  "antutu_score": 740000,
+  "verified": true,
+  "source_urls": [
+    "https://www.mediatek.com/products/smartphones-2/dimensity-1200",
+    "https://en.wikipedia.org/wiki/MediaTek_Dimensity_1200"
+  ]
+}

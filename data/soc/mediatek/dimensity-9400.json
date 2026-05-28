@@ -1,0 +1,27 @@
+{
+  "slug": "dimensity-9400",
+  "name": "MediaTek Dimensity 9400",
+  "manufacturer": "mediatek",
+  "release_date": "2024-10-09",
+  "process_nm": 3.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "1x Cortex-X925 + 3x X4 + 4x A720",
+    "clocks_ghz": [3.62, 3.3, 2.4]
+  },
+  "gpu_name": "Immortalis-G925 MC12",
+  "gpu_cores": 12,
+  "gpu_clock_mhz": null,
+  "npu_tops": null,
+  "modem": "MediaTek 5G (sub-6/mmWave)",
+  "geekbench_single": 2800,
+  "geekbench_multi": 8700,
+  "antutu_score": 2700000,
+  "verified": true,
+  "source_urls": [
+    "https://www.mediatek.com/products/smartphones-2/mediatek-dimensity-9400",
+    "https://en.wikipedia.org/wiki/MediaTek_Dimensity"
+  ]
+}

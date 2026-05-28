@@ -1,0 +1,38 @@
+{
+  "slug": "pixel-9a",
+  "name": "Google Pixel 9a",
+  "brand": "google",
+  "soc": "tensor-g4",
+  "release_date": "2025-05-14",
+  "msrp_usd": 499,
+  "ram_gb": 8,
+  "storage_options_gb": [128, 256],
+  "display": {
+    "size_inch": 6.3,
+    "resolution": "2424x1080",
+    "refresh_hz": 120,
+    "type": "OLED",
+    "brightness_nits": 2700,
+    "ppi": 422
+  },
+  "cameras": [
+    {"type": "main", "mp": 48, "aperture": 1.7, "ois": true, "sensor": "Samsung GN3"},
+    {"type": "ultrawide", "mp": 13, "aperture": 2.2, "ois": false},
+    {"type": "selfie", "mp": 13, "aperture": 2.2}
+  ],
+  "battery_mah": 5100,
+  "charging_wired_w": 23,
+  "charging_wireless_w": 7,
+  "weight_g": 186.0,
+  "dimensions": {"height_mm": 154.7, "width_mm": 73.3, "depth_mm": 8.9},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "15",
+  "connectivity": {"wifi": "Wi-Fi 6E", "bluetooth": "5.3", "nfc": true, "usb": "USB-C 3.2"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/pixel-9a.webp",
+  "verified": true,
+  "source_urls": [
+    "https://store.google.com/product/pixel_9a_specs",
+    "https://en.wikipedia.org/wiki/Pixel_9a"
+  ]
+}

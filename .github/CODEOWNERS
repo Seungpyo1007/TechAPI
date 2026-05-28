@@ -1,0 +1,6 @@
+# Default owners for everything in the repo.
+# TODO: replace with the maintainer's GitHub handle or org team before Phase 1.
+* @GetTechAPI/maintainers
+
+/data/      @GetTechAPI/maintainers
+/app/       @GetTechAPI/maintainers

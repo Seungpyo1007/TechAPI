@@ -1,0 +1,31 @@
+{
+  "slug": "ryzen-5-5600g",
+  "name": "AMD Ryzen 5 5600G",
+  "manufacturer": "amd",
+  "release_date": "2021-08-05",
+  "segment": "desktop",
+  "architecture": "Zen 3",
+  "socket": "AM4",
+  "process_node": "TSMC N7",
+  "cores": 6,
+  "threads": 12,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 3.9,
+  "boost_clock_ghz": 4.4,
+  "l3_cache_mb": 16.0,
+  "tdp_w": 65,
+  "max_tdp_w": 88,
+  "integrated_graphics": "AMD Radeon Graphics (7 CU)",
+  "memory_support": "DDR4-3200",
+  "cinebench_r23_single": 1480,
+  "cinebench_r23_multi": 11000,
+  "geekbench_single": 1960,
+  "geekbench_multi": 8800,
+  "msrp_usd": 259,
+  "verified": true,
+  "source_urls": [
+    "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-5-5600g.html",
+    "https://en.wikipedia.org/wiki/Ryzen_5000_series"
+  ]
+}

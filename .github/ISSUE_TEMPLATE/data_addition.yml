@@ -1,0 +1,29 @@
+name: "📥 Data addition"
+description: Request a new device, SoC, or GPU
+labels: ["type:data", "data:missing"]
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - smartphone
+        - soc
+        - gpu
+        - brand
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: "Galaxy S25 FE"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Source URLs (at least one)
+      description: Manufacturer spec sheet preferred (§9.2).
+    validations:
+      required: true

@@ -1,0 +1,40 @@
+{
+  "slug": "honor-magic-4-pro",
+  "name": "HONOR Magic4 Pro",
+  "brand": "honor",
+  "soc": "snapdragon-8-gen-1",
+  "release_date": "2022-03-08",
+  "msrp_usd": 1099,
+  "ram_gb": 12,
+  "storage_options_gb": [256, 512],
+  "display": {
+    "size_inch": 6.81,
+    "resolution": "2848x1312",
+    "refresh_hz": 120,
+    "type": "LTPO OLED",
+    "brightness_nits": 1000,
+    "ppi": 460
+  },
+  "cameras": [
+    {"type": "main", "mp": 50, "aperture": 1.8, "ois": true, "sensor": "Sony IMX766"},
+    {"type": "ultrawide", "mp": 50, "aperture": 2.2, "ois": false},
+    {"type": "periscope", "mp": 64, "aperture": 3.5, "ois": true, "optical_zoom": 3.5},
+    {"type": "selfie", "mp": 12, "aperture": 2.45},
+    {"type": "3d-depth", "mp": 3, "aperture": 2.4, "ois": false}
+  ],
+  "battery_mah": 4600,
+  "charging_wired_w": 100,
+  "charging_wireless_w": 50,
+  "weight_g": 209.0,
+  "dimensions": {"height_mm": 163.6, "width_mm": 74.7, "depth_mm": 8.9},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "12",
+  "connectivity": {"wifi": "Wi-Fi 6E", "bluetooth": "5.2", "nfc": true, "usb": "USB-C 3.1"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/honor-magic-4-pro.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.hihonor.com/global/phones/honor-magic4-pro/",
+    "https://en.wikipedia.org/wiki/Honor_Magic4_Pro"
+  ]
+}

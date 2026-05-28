@@ -1,0 +1,39 @@
+{
+  "slug": "pixel-6-pro",
+  "name": "Pixel 6 Pro",
+  "brand": "google",
+  "soc": "google-tensor",
+  "release_date": "2021-10-28",
+  "msrp_usd": 899,
+  "ram_gb": 12,
+  "storage_options_gb": [128, 256, 512],
+  "display": {
+    "size_inch": 6.7,
+    "resolution": "3120x1440",
+    "refresh_hz": 120,
+    "type": "AMOLED LTPO",
+    "brightness_nits": 1000,
+    "ppi": 512
+  },
+  "cameras": [
+    {"type": "main", "mp": 50, "aperture": 1.85, "ois": true, "sensor": "Samsung GN1"},
+    {"type": "ultrawide", "mp": 12, "aperture": 2.2, "ois": false},
+    {"type": "telephoto", "mp": 48, "aperture": 3.5, "ois": true, "optical_zoom": 4},
+    {"type": "selfie", "mp": 11.1, "aperture": 2.2}
+  ],
+  "battery_mah": 5003,
+  "charging_wired_w": 30,
+  "charging_wireless_w": 23,
+  "weight_g": 210.0,
+  "dimensions": {"height_mm": 163.9, "width_mm": 75.9, "depth_mm": 8.9},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "12",
+  "connectivity": {"wifi": "Wi-Fi 6E", "bluetooth": "5.2", "nfc": true, "usb": "USB-C 3.2"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/pixel-6-pro.webp",
+  "verified": true,
+  "source_urls": [
+    "https://store.google.com/us/product/pixel_6_pro_specs",
+    "https://en.wikipedia.org/wiki/Pixel_6_Pro"
+  ]
+}

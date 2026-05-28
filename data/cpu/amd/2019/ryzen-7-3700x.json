@@ -1,0 +1,31 @@
+{
+  "slug": "ryzen-7-3700x",
+  "name": "AMD Ryzen 7 3700X",
+  "manufacturer": "amd",
+  "release_date": "2019-07-07",
+  "segment": "desktop",
+  "architecture": "Zen 2",
+  "socket": "AM4",
+  "process_node": "TSMC N7",
+  "cores": 8,
+  "threads": 16,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 3.6,
+  "boost_clock_ghz": 4.4,
+  "l3_cache_mb": 32.0,
+  "tdp_w": 65,
+  "max_tdp_w": 88,
+  "integrated_graphics": null,
+  "memory_support": "DDR4-3200",
+  "cinebench_r23_single": 1210,
+  "cinebench_r23_multi": 12000,
+  "geekbench_single": 1750,
+  "geekbench_multi": 8000,
+  "msrp_usd": 329,
+  "verified": true,
+  "source_urls": [
+    "https://www.amd.com/en/products/processors/desktops/ryzen/3000-series/amd-ryzen-7-3700x.html",
+    "https://en.wikipedia.org/wiki/Zen_2"
+  ]
+}

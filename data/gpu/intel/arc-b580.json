@@ -1,0 +1,27 @@
+{
+  "slug": "arc-b580",
+  "name": "Arc B580",
+  "manufacturer": "intel",
+  "architecture": "Battlemage",
+  "release_date": "2024-12-05",
+  "msrp_usd": 249,
+  "cuda_cores": null,
+  "stream_processors": 2560,
+  "rt_cores": 20,
+  "tensor_cores": null,
+  "memory_gb": 12,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 192,
+  "memory_bandwidth_gbps": 456,
+  "base_clock_mhz": 1770,
+  "boost_clock_mhz": 2670,
+  "tdp_w": 190,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.intel.com/content/www/us/en/products/sku/243045/intel-arc-b580-graphics/specifications.html",
+    "https://www.techpowerup.com/gpu-specs/intel-arc-b580.c4201"
+  ]
+}

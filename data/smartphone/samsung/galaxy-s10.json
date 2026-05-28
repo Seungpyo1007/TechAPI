@@ -1,0 +1,39 @@
+{
+  "slug": "galaxy-s10",
+  "name": "Galaxy S10",
+  "brand": "samsung",
+  "soc": "exynos-9820",
+  "release_date": "2019-03-08",
+  "msrp_usd": 899,
+  "ram_gb": 8,
+  "storage_options_gb": [128, 512],
+  "display": {
+    "size_inch": 6.1,
+    "resolution": "3040x1440",
+    "refresh_hz": 60,
+    "type": "Dynamic AMOLED",
+    "brightness_nits": 1200,
+    "ppi": 550
+  },
+  "cameras": [
+    {"type": "main", "mp": 12, "aperture": 1.5, "ois": true, "sensor": "Sony IMX555"},
+    {"type": "ultrawide", "mp": 16, "aperture": 2.2, "ois": false},
+    {"type": "telephoto", "mp": 12, "aperture": 2.4, "ois": true, "optical_zoom": 2},
+    {"type": "selfie", "mp": 10, "aperture": 1.9}
+  ],
+  "battery_mah": 3400,
+  "charging_wired_w": 25,
+  "charging_wireless_w": 15,
+  "weight_g": 157.0,
+  "dimensions": {"height_mm": 149.9, "width_mm": 70.4, "depth_mm": 7.8},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "9",
+  "connectivity": {"wifi": "Wi-Fi 6", "bluetooth": "5.0", "nfc": true, "usb": "USB-C 3.1"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/galaxy-s10.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.samsung.com/global/galaxy/galaxy-s10/specs/",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_S10"
+  ]
+}

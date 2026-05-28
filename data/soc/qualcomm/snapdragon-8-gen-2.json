@@ -1,0 +1,27 @@
+{
+  "slug": "snapdragon-8-gen-2",
+  "name": "Snapdragon 8 Gen 2",
+  "manufacturer": "qualcomm",
+  "release_date": "2022-11-16",
+  "process_nm": 4.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "1x Cortex-X3 + 2x A715 + 2x A710 + 3x A510",
+    "clocks_ghz": [3.2, 2.8, 2.8, 2.0]
+  },
+  "gpu_name": "Adreno 740",
+  "gpu_cores": null,
+  "gpu_clock_mhz": 719,
+  "npu_tops": 26.0,
+  "modem": "Snapdragon X70 5G",
+  "geekbench_single": 2000,
+  "geekbench_multi": 5600,
+  "antutu_score": 1500000,
+  "verified": true,
+  "source_urls": [
+    "https://www.qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-8-series-mobile-platforms/snapdragon-8-gen-2-mobile-platform",
+    "https://en.wikipedia.org/wiki/Snapdragon_8_Gen_2"
+  ]
+}

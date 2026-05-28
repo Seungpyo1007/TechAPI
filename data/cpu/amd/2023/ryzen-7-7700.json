@@ -1,0 +1,31 @@
+{
+  "slug": "ryzen-7-7700",
+  "name": "AMD Ryzen 7 7700",
+  "manufacturer": "amd",
+  "release_date": "2023-01-10",
+  "segment": "desktop",
+  "architecture": "Zen 4",
+  "socket": "AM5",
+  "process_node": "TSMC N5",
+  "cores": 8,
+  "threads": 16,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 3.8,
+  "boost_clock_ghz": 5.3,
+  "l3_cache_mb": 32.0,
+  "tdp_w": 65,
+  "max_tdp_w": 88,
+  "integrated_graphics": "AMD Radeon Graphics",
+  "memory_support": "DDR5-5200",
+  "cinebench_r23_single": 1960,
+  "cinebench_r23_multi": 18500,
+  "geekbench_single": 2700,
+  "geekbench_multi": 14000,
+  "msrp_usd": 329,
+  "verified": true,
+  "source_urls": [
+    "https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7700.html",
+    "https://en.wikipedia.org/wiki/Ryzen_7000_series"
+  ]
+}

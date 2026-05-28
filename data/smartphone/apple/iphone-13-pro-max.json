@@ -1,0 +1,39 @@
+{
+  "slug": "iphone-13-pro-max",
+  "name": "iPhone 13 Pro Max",
+  "brand": "apple",
+  "soc": "apple-a15-bionic",
+  "release_date": "2021-09-24",
+  "msrp_usd": 1099,
+  "ram_gb": 6,
+  "storage_options_gb": [128, 256, 512, 1024],
+  "display": {
+    "size_inch": 6.7,
+    "resolution": "2778x1284",
+    "refresh_hz": 120,
+    "type": "Super Retina XDR ProMotion OLED",
+    "brightness_nits": 1000,
+    "ppi": 458
+  },
+  "cameras": [
+    {"type": "main", "mp": 12, "aperture": 1.5, "ois": true},
+    {"type": "ultrawide", "mp": 12, "aperture": 1.8, "ois": false},
+    {"type": "telephoto", "mp": 12, "aperture": 2.8, "ois": true, "optical_zoom": 3},
+    {"type": "selfie", "mp": 12, "aperture": 2.2}
+  ],
+  "battery_mah": 4352,
+  "charging_wired_w": 27,
+  "charging_wireless_w": 15,
+  "weight_g": 238.0,
+  "dimensions": {"height_mm": 160.8, "width_mm": 78.1, "depth_mm": 7.65},
+  "ip_rating": "IP68",
+  "os": "iOS",
+  "os_version": "15",
+  "connectivity": {"wifi": "Wi-Fi 6", "bluetooth": "5.0", "nfc": true, "usb": "Lightning"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/iphone-13-pro-max.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.apple.com/iphone-13-pro/specs/",
+    "https://en.wikipedia.org/wiki/iPhone_13_Pro"
+  ]
+}

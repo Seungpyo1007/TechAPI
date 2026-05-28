@@ -1,0 +1,39 @@
+{
+  "slug": "galaxy-z-fold-6",
+  "name": "Galaxy Z Fold6",
+  "brand": "samsung",
+  "soc": "snapdragon-8-gen-3",
+  "release_date": "2024-07-10",
+  "msrp_usd": 1899,
+  "ram_gb": 12,
+  "storage_options_gb": [256, 512, 1024],
+  "display": {
+    "size_inch": 7.6,
+    "resolution": "2160x1856",
+    "refresh_hz": 120,
+    "type": "Dynamic AMOLED 2X",
+    "brightness_nits": 2600,
+    "ppi": 374
+  },
+  "cameras": [
+    {"type": "main", "mp": 50, "aperture": 1.8, "ois": true, "sensor": "Samsung GN3"},
+    {"type": "ultrawide", "mp": 12, "aperture": 2.2, "ois": false},
+    {"type": "telephoto", "mp": 10, "aperture": 2.4, "ois": true, "optical_zoom": 3},
+    {"type": "selfie", "mp": 10, "aperture": 2.2}
+  ],
+  "battery_mah": 4400,
+  "charging_wired_w": 25,
+  "charging_wireless_w": 15,
+  "weight_g": 239.0,
+  "dimensions": {"height_mm": 153.5, "width_mm": 132.6, "depth_mm": 5.6},
+  "ip_rating": "IPX8",
+  "os": "Android",
+  "os_version": "14",
+  "connectivity": {"wifi": "Wi-Fi 7", "bluetooth": "5.3", "nfc": true, "usb": "USB-C 3.2"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/galaxy-z-fold-6.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.samsung.com/global/galaxy/galaxy-z-fold6/specs/",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_Z_Fold_6"
+  ]
+}

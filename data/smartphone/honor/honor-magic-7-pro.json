@@ -1,0 +1,39 @@
+{
+  "slug": "honor-magic-7-pro",
+  "name": "HONOR Magic7 Pro",
+  "brand": "honor",
+  "soc": "snapdragon-8-elite",
+  "release_date": "2024-10-30",
+  "msrp_usd": 1199,
+  "ram_gb": 12,
+  "storage_options_gb": [256, 512, 1024],
+  "display": {
+    "size_inch": 6.8,
+    "resolution": "2800x1280",
+    "refresh_hz": 120,
+    "type": "LTPO OLED",
+    "brightness_nits": 5000,
+    "ppi": 453
+  },
+  "cameras": [
+    {"type": "main", "mp": 50, "aperture": 1.4, "ois": true, "sensor": "HONOR Eagle Camera Pro"},
+    {"type": "ultrawide", "mp": 50, "aperture": 2.0, "ois": false},
+    {"type": "telephoto", "mp": 200, "aperture": 2.6, "ois": true, "optical_zoom": 3},
+    {"type": "selfie", "mp": 50, "aperture": 2.0}
+  ],
+  "battery_mah": 5270,
+  "charging_wired_w": 100,
+  "charging_wireless_w": 80,
+  "weight_g": 223.0,
+  "dimensions": {"height_mm": 162.6, "width_mm": 77.2, "depth_mm": 8.7},
+  "ip_rating": "IP68/IP69",
+  "os": "Android",
+  "os_version": "15",
+  "connectivity": {"wifi": "Wi-Fi 7", "bluetooth": "5.4", "nfc": true, "usb": "USB-C 3.2"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/honor-magic-7-pro.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.honor.com/global/phones/honor-magic7-pro/",
+    "https://en.wikipedia.org/wiki/Honor_Magic7_Pro"
+  ]
+}

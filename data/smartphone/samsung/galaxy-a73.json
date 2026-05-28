@@ -1,0 +1,40 @@
+{
+  "slug": "galaxy-a73",
+  "name": "Galaxy A73",
+  "brand": "samsung",
+  "soc": "snapdragon-778g",
+  "release_date": "2022-04-22",
+  "msrp_usd": 549,
+  "ram_gb": 8,
+  "storage_options_gb": [128, 256],
+  "display": {
+    "size_inch": 6.7,
+    "resolution": "2400x1080",
+    "refresh_hz": 120,
+    "type": "Super AMOLED",
+    "brightness_nits": 800,
+    "ppi": 393
+  },
+  "cameras": [
+    {"type": "main", "mp": 108, "aperture": 1.8, "ois": true},
+    {"type": "ultrawide", "mp": 12, "aperture": 2.2, "ois": false},
+    {"type": "macro", "mp": 5, "aperture": 2.4},
+    {"type": "depth", "mp": 5, "aperture": 2.4},
+    {"type": "selfie", "mp": 32, "aperture": 2.2}
+  ],
+  "battery_mah": 5000,
+  "charging_wired_w": 25,
+  "charging_wireless_w": 0,
+  "weight_g": 181.0,
+  "dimensions": {"height_mm": 163.7, "width_mm": 76.1, "depth_mm": 7.6},
+  "ip_rating": "IP67",
+  "os": "Android",
+  "os_version": "12",
+  "connectivity": {"wifi": "Wi-Fi 6", "bluetooth": "5.0", "nfc": true, "usb": "USB-C 2.0"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/galaxy-a73.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.samsung.com/global/galaxy/galaxy-a73/specs/",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_A73"
+  ]
+}

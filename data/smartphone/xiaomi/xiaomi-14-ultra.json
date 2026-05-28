@@ -1,0 +1,39 @@
+{
+  "slug": "xiaomi-14-ultra",
+  "name": "Xiaomi 14 Ultra",
+  "brand": "xiaomi",
+  "soc": "snapdragon-8-gen-3",
+  "release_date": "2024-02-22",
+  "msrp_usd": 1399,
+  "ram_gb": 16,
+  "storage_options_gb": [256, 512, 1024],
+  "display": {
+    "size_inch": 6.73,
+    "resolution": "3200x1440",
+    "refresh_hz": 120,
+    "type": "LTPO AMOLED",
+    "brightness_nits": 3000,
+    "ppi": 522
+  },
+  "cameras": [
+    {"type": "main", "mp": 50, "aperture": 1.63, "ois": true, "sensor": "Sony LYT-900"},
+    {"type": "ultrawide", "mp": 50, "aperture": 1.8, "ois": true},
+    {"type": "telephoto", "mp": 50, "aperture": 2.5, "ois": true, "optical_zoom": 5},
+    {"type": "selfie", "mp": 32, "aperture": 2.0}
+  ],
+  "battery_mah": 5300,
+  "charging_wired_w": 90,
+  "charging_wireless_w": 80,
+  "weight_g": 229.5,
+  "dimensions": {"height_mm": 161.4, "width_mm": 75.3, "depth_mm": 9.35},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "14",
+  "connectivity": {"wifi": "Wi-Fi 7", "bluetooth": "5.4", "nfc": true, "usb": "USB-C 3.2"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/xiaomi-14-ultra.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.mi.com/global/product/xiaomi14ultra",
+    "https://en.wikipedia.org/wiki/Xiaomi_14_Ultra"
+  ]
+}

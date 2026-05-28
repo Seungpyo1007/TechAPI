@@ -1,0 +1,38 @@
+{
+  "slug": "galaxy-z-flip-4",
+  "name": "Galaxy Z Flip4",
+  "brand": "samsung",
+  "soc": "snapdragon-8-plus-gen-1",
+  "release_date": "2022-08-26",
+  "msrp_usd": 999,
+  "ram_gb": 8,
+  "storage_options_gb": [128, 256, 512],
+  "display": {
+    "size_inch": 6.7,
+    "resolution": "2640x1080",
+    "refresh_hz": 120,
+    "type": "Dynamic AMOLED 2X",
+    "brightness_nits": 1200,
+    "ppi": 426
+  },
+  "cameras": [
+    {"type": "main", "mp": 12, "aperture": 1.8, "ois": true},
+    {"type": "ultrawide", "mp": 12, "aperture": 2.2, "ois": false},
+    {"type": "selfie", "mp": 10, "aperture": 2.4}
+  ],
+  "battery_mah": 3700,
+  "charging_wired_w": 25,
+  "charging_wireless_w": 15,
+  "weight_g": 187.0,
+  "dimensions": {"height_mm": 165.2, "width_mm": 71.9, "depth_mm": 6.9},
+  "ip_rating": "IPX8",
+  "os": "Android",
+  "os_version": "12",
+  "connectivity": {"wifi": "Wi-Fi 6E", "bluetooth": "5.2", "nfc": true, "usb": "USB-C 3.1"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/galaxy-z-flip-4.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.samsung.com/global/galaxy/galaxy-z-flip4/specs/",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_Z_Flip4"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "helio-g99",
+  "name": "MediaTek Helio G99",
+  "manufacturer": "mediatek",
+  "release_date": "2022-05-23",
+  "process_nm": 6.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 2,
+    "efficiency": 6,
+    "architecture": "2x Cortex-A76 + 6x A55",
+    "clocks_ghz": [2.2, 2.0]
+  },
+  "gpu_name": "Mali-G57 MC2",
+  "gpu_cores": 2,
+  "gpu_clock_mhz": 1100,
+  "npu_tops": null,
+  "modem": "LTE (no 5G)",
+  "geekbench_single": 800,
+  "geekbench_multi": 2300,
+  "antutu_score": 450000,
+  "verified": true,
+  "source_urls": [
+    "https://www.mediatek.com/products/smartphones-2/helio-g99",
+    "https://en.wikipedia.org/wiki/MediaTek_Helio_G99"
+  ]
+}

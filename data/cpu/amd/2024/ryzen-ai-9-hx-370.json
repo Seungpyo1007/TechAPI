@@ -1,0 +1,31 @@
+{
+  "slug": "ryzen-ai-9-hx-370",
+  "name": "AMD Ryzen AI 9 HX 370",
+  "manufacturer": "amd",
+  "release_date": "2024-07-15",
+  "segment": "laptop",
+  "architecture": "Zen 5 (Strix Point)",
+  "socket": "FP8",
+  "process_node": "TSMC N4",
+  "cores": 12,
+  "threads": 24,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 2.0,
+  "boost_clock_ghz": 5.1,
+  "l3_cache_mb": 24.0,
+  "tdp_w": 28,
+  "max_tdp_w": 54,
+  "integrated_graphics": "AMD Radeon 890M",
+  "memory_support": "DDR5-5600 / LPDDR5x-7500",
+  "cinebench_r23_single": 2100,
+  "cinebench_r23_multi": 22000,
+  "geekbench_single": 2950,
+  "geekbench_multi": 15000,
+  "msrp_usd": 649,
+  "verified": true,
+  "source_urls": [
+    "https://www.amd.com/en/products/processors/laptop/ryzen-ai/9000-series/amd-ryzen-ai-9-hx-370.html",
+    "https://en.wikipedia.org/wiki/Strix_Point"
+  ]
+}

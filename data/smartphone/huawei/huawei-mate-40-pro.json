@@ -1,0 +1,39 @@
+{
+  "slug": "huawei-mate-40-pro",
+  "name": "Huawei Mate 40 Pro",
+  "brand": "huawei",
+  "soc": "kirin-9000",
+  "release_date": "2020-10-22",
+  "msrp_usd": 1199,
+  "ram_gb": 8,
+  "storage_options_gb": [128, 256],
+  "display": {
+    "size_inch": 6.76,
+    "resolution": "2772x1344",
+    "refresh_hz": 90,
+    "type": "OLED",
+    "brightness_nits": 800,
+    "ppi": 456
+  },
+  "cameras": [
+    {"type": "main", "mp": 50, "aperture": 1.9, "ois": true, "sensor": "RYYB"},
+    {"type": "ultrawide", "mp": 20, "aperture": 1.8, "ois": false},
+    {"type": "telephoto", "mp": 12, "aperture": 3.4, "ois": true, "optical_zoom": 5},
+    {"type": "selfie", "mp": 13, "aperture": 2.4}
+  ],
+  "battery_mah": 4400,
+  "charging_wired_w": 66,
+  "charging_wireless_w": 50,
+  "weight_g": 212.0,
+  "dimensions": {"height_mm": 162.9, "width_mm": 75.5, "depth_mm": 9.1},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "10",
+  "connectivity": {"wifi": "Wi-Fi 6E", "bluetooth": "5.2", "nfc": true, "usb": "USB-C 3.1"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/huawei-mate-40-pro.webp",
+  "verified": true,
+  "source_urls": [
+    "https://consumer.huawei.com/en/phones/mate40-pro/specs/",
+    "https://en.wikipedia.org/wiki/Huawei_Mate_40_Pro"
+  ]
+}

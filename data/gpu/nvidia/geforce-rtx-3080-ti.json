@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-rtx-3080-ti",
+  "name": "GeForce RTX 3080 Ti",
+  "manufacturer": "nvidia",
+  "architecture": "Ampere",
+  "release_date": "2021-06-03",
+  "msrp_usd": 1199,
+  "cuda_cores": 10240,
+  "stream_processors": null,
+  "rt_cores": 80,
+  "tensor_cores": 320,
+  "memory_gb": 12,
+  "memory_type": "GDDR6X",
+  "memory_bus_bit": 384,
+  "memory_bandwidth_gbps": 912,
+  "base_clock_mhz": 1365,
+  "boost_clock_mhz": 1665,
+  "tdp_w": 350,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3080-ti/",
+    "https://www.techpowerup.com/gpu-specs/geforce-rtx-3080-ti.c3735"
+  ]
+}

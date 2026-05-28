@@ -1,0 +1,31 @@
+{
+  "slug": "ryzen-9-9950x3d",
+  "name": "AMD Ryzen 9 9950X3D",
+  "manufacturer": "amd",
+  "release_date": "2025-03-31",
+  "segment": "desktop",
+  "architecture": "Zen 5",
+  "socket": "AM5",
+  "process_node": "TSMC N4",
+  "cores": 16,
+  "threads": 32,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 4.3,
+  "boost_clock_ghz": 5.7,
+  "l3_cache_mb": 144.0,
+  "tdp_w": 170,
+  "max_tdp_w": 230,
+  "integrated_graphics": null,
+  "memory_support": "DDR5-5600",
+  "cinebench_r23_single": 2350,
+  "cinebench_r23_multi": 45000,
+  "geekbench_single": 3300,
+  "geekbench_multi": 24000,
+  "msrp_usd": 699,
+  "verified": true,
+  "source_urls": [
+    "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x3d.html",
+    "https://en.wikipedia.org/wiki/Ryzen_9000_series"
+  ]
+}

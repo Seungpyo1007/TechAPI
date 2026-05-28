@@ -1,0 +1,39 @@
+{
+  "slug": "xiaomi-12x",
+  "name": "Xiaomi 12X",
+  "brand": "xiaomi",
+  "soc": "snapdragon-870",
+  "release_date": "2021-12-28",
+  "msrp_usd": 599,
+  "ram_gb": 12,
+  "storage_options_gb": [128, 256],
+  "display": {
+    "size_inch": 6.28,
+    "resolution": "2400x1080",
+    "refresh_hz": 120,
+    "type": "AMOLED",
+    "brightness_nits": 1100,
+    "ppi": 419
+  },
+  "cameras": [
+    {"type": "main", "mp": 50, "aperture": 1.88, "ois": true, "sensor": "Sony IMX766"},
+    {"type": "ultrawide", "mp": 13, "aperture": 2.4, "ois": false},
+    {"type": "telephoto", "mp": 5, "aperture": 2.4, "ois": false, "optical_zoom": 2},
+    {"type": "selfie", "mp": 32, "aperture": 2.45}
+  ],
+  "battery_mah": 4500,
+  "charging_wired_w": 67,
+  "charging_wireless_w": 0,
+  "weight_g": 176.0,
+  "dimensions": {"height_mm": 152.7, "width_mm": 69.9, "depth_mm": 8.16},
+  "ip_rating": "IP53",
+  "os": "Android",
+  "os_version": "12",
+  "connectivity": {"wifi": "Wi-Fi 6E", "bluetooth": "5.2", "nfc": true, "usb": "USB-C 2.0"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/xiaomi-12x.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.mi.com/global/product/xiaomi-12x",
+    "https://en.wikipedia.org/wiki/Xiaomi_12_series"
+  ]
+}

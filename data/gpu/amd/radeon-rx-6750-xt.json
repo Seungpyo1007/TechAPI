@@ -1,0 +1,27 @@
+{
+  "slug": "radeon-rx-6750-xt",
+  "name": "Radeon RX 6750 XT",
+  "manufacturer": "amd",
+  "architecture": "RDNA 2",
+  "release_date": "2022-05-10",
+  "msrp_usd": 549,
+  "cuda_cores": null,
+  "stream_processors": 2560,
+  "rt_cores": 40,
+  "tensor_cores": null,
+  "memory_gb": 12,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 192,
+  "memory_bandwidth_gbps": 432,
+  "base_clock_mhz": 2150,
+  "boost_clock_mhz": 2600,
+  "tdp_w": 250,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.amd.com/en/products/graphics/desktops/radeon/6000-series/amd-radeon-rx-6750-xt.html",
+    "https://www.techpowerup.com/gpu-specs/radeon-rx-6750-xt.c3815"
+  ]
+}

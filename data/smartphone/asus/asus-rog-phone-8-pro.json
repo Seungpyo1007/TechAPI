@@ -1,0 +1,39 @@
+{
+  "slug": "asus-rog-phone-8-pro",
+  "name": "ASUS ROG Phone 8 Pro",
+  "brand": "asus",
+  "soc": "snapdragon-8-gen-3",
+  "release_date": "2024-01-18",
+  "msrp_usd": 1199,
+  "ram_gb": 24,
+  "storage_options_gb": [512, 1024],
+  "display": {
+    "size_inch": 6.78,
+    "resolution": "2400x1080",
+    "refresh_hz": 165,
+    "type": "AMOLED",
+    "brightness_nits": 2500,
+    "ppi": 391
+  },
+  "cameras": [
+    {"type": "main", "mp": 50, "aperture": 1.9, "ois": true, "sensor": "Sony IMX890"},
+    {"type": "ultrawide", "mp": 13, "aperture": 2.2, "ois": false},
+    {"type": "telephoto", "mp": 32, "aperture": 2.4, "ois": false, "optical_zoom": 3},
+    {"type": "selfie", "mp": 32, "aperture": 2.45}
+  ],
+  "battery_mah": 5500,
+  "charging_wired_w": 65,
+  "charging_wireless_w": 15,
+  "weight_g": 225.0,
+  "dimensions": {"height_mm": 163.8, "width_mm": 76.8, "depth_mm": 8.9},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "14",
+  "connectivity": {"wifi": "Wi-Fi 7", "bluetooth": "5.4", "nfc": true, "usb": "USB-C 3.2"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/asus-rog-phone-8-pro.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.asus.com/phones/rog-phone/rog-phone-8-pro/",
+    "https://en.wikipedia.org/wiki/Asus_ROG_Phone_8_Pro"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-rtx-4070",
+  "name": "GeForce RTX 4070",
+  "manufacturer": "nvidia",
+  "architecture": "Ada Lovelace",
+  "release_date": "2023-04-13",
+  "msrp_usd": 599,
+  "cuda_cores": 5888,
+  "stream_processors": null,
+  "rt_cores": 46,
+  "tensor_cores": 184,
+  "memory_gb": 12,
+  "memory_type": "GDDR6X",
+  "memory_bus_bit": 192,
+  "memory_bandwidth_gbps": 504,
+  "base_clock_mhz": 1920,
+  "boost_clock_mhz": 2475,
+  "tdp_w": 200,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4070/",
+    "https://www.techpowerup.com/gpu-specs/geforce-rtx-4070.c3953"
+  ]
+}

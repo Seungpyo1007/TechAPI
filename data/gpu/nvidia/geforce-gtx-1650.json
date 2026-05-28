@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-gtx-1650",
+  "name": "GeForce GTX 1650",
+  "manufacturer": "nvidia",
+  "architecture": "Turing",
+  "release_date": "2019-04-23",
+  "msrp_usd": 149,
+  "cuda_cores": 896,
+  "stream_processors": null,
+  "rt_cores": null,
+  "tensor_cores": null,
+  "memory_gb": 4,
+  "memory_type": "GDDR5",
+  "memory_bus_bit": 128,
+  "memory_bandwidth_gbps": 128,
+  "base_clock_mhz": 1485,
+  "boost_clock_mhz": 1665,
+  "tdp_w": 75,
+  "pcie_version": "PCIe 3.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/gtx-1650/",
+    "https://www.techpowerup.com/gpu-specs/geforce-gtx-1650.c3346"
+  ]
+}

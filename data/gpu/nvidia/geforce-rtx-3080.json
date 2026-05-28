@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-rtx-3080",
+  "name": "GeForce RTX 3080",
+  "manufacturer": "nvidia",
+  "architecture": "Ampere",
+  "release_date": "2020-09-17",
+  "msrp_usd": 699,
+  "cuda_cores": 8704,
+  "stream_processors": null,
+  "rt_cores": 68,
+  "tensor_cores": 272,
+  "memory_gb": 10,
+  "memory_type": "GDDR6X",
+  "memory_bus_bit": 320,
+  "memory_bandwidth_gbps": 760,
+  "base_clock_mhz": 1440,
+  "boost_clock_mhz": 1710,
+  "tdp_w": 320,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3080/",
+    "https://www.techpowerup.com/gpu-specs/geforce-rtx-3080.c3621"
+  ]
+}

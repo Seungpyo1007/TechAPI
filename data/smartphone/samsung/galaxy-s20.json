@@ -1,0 +1,39 @@
+{
+  "slug": "galaxy-s20",
+  "name": "Galaxy S20",
+  "brand": "samsung",
+  "soc": "snapdragon-865",
+  "release_date": "2020-03-06",
+  "msrp_usd": 999,
+  "ram_gb": 12,
+  "storage_options_gb": [128],
+  "display": {
+    "size_inch": 6.2,
+    "resolution": "3200x1440",
+    "refresh_hz": 120,
+    "type": "Dynamic AMOLED 2X",
+    "brightness_nits": 1200,
+    "ppi": 563
+  },
+  "cameras": [
+    {"type": "main", "mp": 12, "aperture": 1.8, "ois": true, "sensor": "Sony IMX555"},
+    {"type": "ultrawide", "mp": 12, "aperture": 2.2, "ois": false},
+    {"type": "telephoto", "mp": 64, "aperture": 2.0, "ois": true, "optical_zoom": 3},
+    {"type": "selfie", "mp": 10, "aperture": 2.2}
+  ],
+  "battery_mah": 4000,
+  "charging_wired_w": 25,
+  "charging_wireless_w": 15,
+  "weight_g": 163.0,
+  "dimensions": {"height_mm": 151.7, "width_mm": 69.1, "depth_mm": 7.9},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "10",
+  "connectivity": {"wifi": "Wi-Fi 6", "bluetooth": "5.0", "nfc": true, "usb": "USB-C 3.1"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/galaxy-s20.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.samsung.com/global/galaxy/galaxy-s20/specs/",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_S20"
+  ]
+}

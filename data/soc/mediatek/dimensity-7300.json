@@ -1,0 +1,27 @@
+{
+  "slug": "dimensity-7300",
+  "name": "MediaTek Dimensity 7300",
+  "manufacturer": "mediatek",
+  "release_date": "2024-05-01",
+  "process_nm": 4.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "4x Cortex-A78 + 4x A55",
+    "clocks_ghz": [2.5, 2.0]
+  },
+  "gpu_name": "Mali-G615 MC2",
+  "gpu_cores": 2,
+  "gpu_clock_mhz": 950,
+  "npu_tops": 4.0,
+  "modem": "MediaTek M60 5G",
+  "geekbench_single": 860,
+  "geekbench_multi": 2650,
+  "antutu_score": 550000,
+  "verified": true,
+  "source_urls": [
+    "https://www.mediatek.com/products/smartphones-2/dimensity-7300",
+    "https://en.wikipedia.org/wiki/MediaTek_Dimensity_7300"
+  ]
+}

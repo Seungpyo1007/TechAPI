@@ -1,0 +1,27 @@
+{
+  "slug": "exynos-2200",
+  "name": "Samsung Exynos 2200",
+  "manufacturer": "samsung",
+  "release_date": "2022-01-17",
+  "process_nm": 4.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "1x Cortex-X2 + 3x A710 + 4x A510",
+    "clocks_ghz": [2.8, 2.52, 1.82]
+  },
+  "gpu_name": "Xclipse 920",
+  "gpu_cores": null,
+  "gpu_clock_mhz": null,
+  "npu_tops": null,
+  "modem": "Samsung Exynos Modem 5300",
+  "geekbench_single": 1300,
+  "geekbench_multi": 4000,
+  "antutu_score": 1000000,
+  "verified": true,
+  "source_urls": [
+    "https://semiconductor.samsung.com/us/consumer-storage/internal-ssd/",
+    "https://en.wikipedia.org/wiki/Samsung_Exynos_2200"
+  ]
+}

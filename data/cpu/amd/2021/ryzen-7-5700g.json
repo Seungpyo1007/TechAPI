@@ -1,0 +1,31 @@
+{
+  "slug": "ryzen-7-5700g",
+  "name": "AMD Ryzen 7 5700G",
+  "manufacturer": "amd",
+  "release_date": "2021-08-05",
+  "segment": "desktop",
+  "architecture": "Zen 3",
+  "socket": "AM4",
+  "process_node": "TSMC N7",
+  "cores": 8,
+  "threads": 16,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 3.8,
+  "boost_clock_ghz": 4.6,
+  "l3_cache_mb": 16.0,
+  "tdp_w": 65,
+  "max_tdp_w": 88,
+  "integrated_graphics": "AMD Radeon Graphics (8 CU)",
+  "memory_support": "DDR4-3200",
+  "cinebench_r23_single": 1530,
+  "cinebench_r23_multi": 14500,
+  "geekbench_single": 2050,
+  "geekbench_multi": 10800,
+  "msrp_usd": 359,
+  "verified": true,
+  "source_urls": [
+    "https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-7-5700g.html",
+    "https://en.wikipedia.org/wiki/Ryzen_5000_series"
+  ]
+}

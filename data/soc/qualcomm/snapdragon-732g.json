@@ -1,0 +1,27 @@
+{
+  "slug": "snapdragon-732g",
+  "name": "Snapdragon 732G",
+  "manufacturer": "qualcomm",
+  "release_date": "2020-08-11",
+  "process_nm": 8.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 2,
+    "efficiency": 6,
+    "architecture": "Kryo 470",
+    "clocks_ghz": [2.3, 1.8]
+  },
+  "gpu_name": "Adreno 618",
+  "gpu_cores": null,
+  "gpu_clock_mhz": 750,
+  "npu_tops": 3.0,
+  "modem": "Snapdragon X15 LTE",
+  "geekbench_single": 720,
+  "geekbench_multi": 1950,
+  "antutu_score": 320000,
+  "verified": false,
+  "source_urls": [
+    "https://www.qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-7-series-mobile-platforms/snapdragon-732g-mobile-platform",
+    "https://en.wikipedia.org/wiki/Snapdragon_732G"
+  ]
+}

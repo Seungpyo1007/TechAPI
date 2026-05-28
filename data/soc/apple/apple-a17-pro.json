@@ -1,0 +1,27 @@
+{
+  "slug": "apple-a17-pro",
+  "name": "Apple A17 Pro",
+  "manufacturer": "apple",
+  "release_date": "2023-09-22",
+  "process_nm": 3.0,
+  "transistors_billion": 19.0,
+  "cpu_config": {
+    "performance": 2,
+    "efficiency": 4,
+    "architecture": "2x Everest + 4x Sawtooth",
+    "clocks_ghz": [3.78, 2.11]
+  },
+  "gpu_name": "Apple GPU (6-core)",
+  "gpu_cores": 6,
+  "gpu_clock_mhz": null,
+  "npu_tops": 35.0,
+  "modem": "Apple Modem (5G)",
+  "geekbench_single": 2900,
+  "geekbench_multi": 7200,
+  "antutu_score": null,
+  "verified": true,
+  "source_urls": [
+    "https://www.apple.com/iphone-15-pro/chip/",
+    "https://en.wikipedia.org/wiki/Apple_A17_Pro"
+  ]
+}

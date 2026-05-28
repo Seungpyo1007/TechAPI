@@ -1,0 +1,27 @@
+{
+  "slug": "dimensity-7200",
+  "name": "MediaTek Dimensity 7200",
+  "manufacturer": "mediatek",
+  "release_date": "2023-03-01",
+  "process_nm": 4.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "4x Cortex-A715 + 4x A510",
+    "clocks_ghz": [2.8, 2.0]
+  },
+  "gpu_name": "Mali-G610 MC4",
+  "gpu_cores": 4,
+  "gpu_clock_mhz": 800,
+  "npu_tops": null,
+  "modem": "MediaTek M80 5G",
+  "geekbench_single": 1150,
+  "geekbench_multi": 3300,
+  "antutu_score": 800000,
+  "verified": true,
+  "source_urls": [
+    "https://www.mediatek.com/products/smartphones-2/dimensity-7200",
+    "https://en.wikipedia.org/wiki/MediaTek_Dimensity_7200"
+  ]
+}

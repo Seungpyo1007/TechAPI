@@ -1,0 +1,39 @@
+{
+  "slug": "pixel-7-pro",
+  "name": "Pixel 7 Pro",
+  "brand": "google",
+  "soc": "tensor-g2",
+  "release_date": "2022-10-13",
+  "msrp_usd": 899,
+  "ram_gb": 12,
+  "storage_options_gb": [128, 256, 512],
+  "display": {
+    "size_inch": 6.7,
+    "resolution": "3120x1440",
+    "refresh_hz": 120,
+    "type": "LTPO OLED",
+    "brightness_nits": 1500,
+    "ppi": 512
+  },
+  "cameras": [
+    {"type": "main", "mp": 50, "aperture": 1.85, "ois": true, "sensor": "Samsung GN1"},
+    {"type": "ultrawide", "mp": 12, "aperture": 2.2, "ois": false},
+    {"type": "telephoto", "mp": 48, "aperture": 3.5, "ois": true, "optical_zoom": 5},
+    {"type": "selfie", "mp": 10.8, "aperture": 2.2}
+  ],
+  "battery_mah": 5000,
+  "charging_wired_w": 23,
+  "charging_wireless_w": 23,
+  "weight_g": 212.0,
+  "dimensions": {"height_mm": 162.9, "width_mm": 76.6, "depth_mm": 8.9},
+  "ip_rating": "IP68",
+  "os": "Android",
+  "os_version": "13",
+  "connectivity": {"wifi": "Wi-Fi 6E", "bluetooth": "5.3", "nfc": true, "usb": "USB-C 3.2"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/pixel-7-pro.webp",
+  "verified": true,
+  "source_urls": [
+    "https://store.google.com/product/pixel_7_pro_specs",
+    "https://en.wikipedia.org/wiki/Pixel_7"
+  ]
+}

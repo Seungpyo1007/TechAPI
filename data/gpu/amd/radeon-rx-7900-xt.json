@@ -1,0 +1,27 @@
+{
+  "slug": "radeon-rx-7900-xt",
+  "name": "Radeon RX 7900 XT",
+  "manufacturer": "amd",
+  "architecture": "RDNA 3",
+  "release_date": "2022-12-13",
+  "msrp_usd": 899,
+  "cuda_cores": null,
+  "stream_processors": 5376,
+  "rt_cores": 84,
+  "tensor_cores": null,
+  "memory_gb": 20,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 320,
+  "memory_bandwidth_gbps": 800,
+  "base_clock_mhz": 1500,
+  "boost_clock_mhz": 2400,
+  "tdp_w": 315,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.amd.com/en/products/graphics/amd-radeon-rx-7900xt.html",
+    "https://www.techpowerup.com/gpu-specs/radeon-rx-7900-xt.c3940"
+  ]
+}

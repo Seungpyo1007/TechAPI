@@ -1,0 +1,30 @@
+{
+  "slug": "core-ultra-5-125h",
+  "name": "Intel Core Ultra 5 125H",
+  "manufacturer": "intel",
+  "release_date": "2024-01-06",
+  "segment": "laptop",
+  "architecture": "Meteor Lake",
+  "socket": "BGA",
+  "process_node": "Intel 4",
+  "cores": 14,
+  "threads": 18,
+  "p_cores": 4,
+  "e_cores": 10,
+  "base_clock_ghz": 1.2,
+  "boost_clock_ghz": 4.5,
+  "l3_cache_mb": 18.0,
+  "tdp_w": 28,
+  "max_tdp_w": 64,
+  "integrated_graphics": "Intel Arc Graphics 48EU",
+  "memory_support": "LPDDR5X-7467 / DDR5-5600",
+  "cinebench_r23_single": 1800,
+  "cinebench_r23_multi": 14500,
+  "geekbench_single": 2500,
+  "geekbench_multi": 12000,
+  "verified": true,
+  "source_urls": [
+    "https://ark.intel.com/content/www/us/en/ark/products/236847/intel-core-ultra-5-processor-125h-18m-cache-up-to-4-50-ghz.html",
+    "https://en.wikipedia.org/wiki/Meteor_Lake_(microprocessor)"
+  ]
+}

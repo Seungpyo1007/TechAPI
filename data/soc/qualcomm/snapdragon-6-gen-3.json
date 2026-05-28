@@ -1,0 +1,27 @@
+{
+  "slug": "snapdragon-6-gen-3",
+  "name": "Snapdragon 6 Gen 3",
+  "manufacturer": "qualcomm",
+  "release_date": "2024-02-26",
+  "process_nm": 4.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "Kryo",
+    "clocks_ghz": [2.3, 1.8]
+  },
+  "gpu_name": "Adreno 710",
+  "gpu_cores": null,
+  "gpu_clock_mhz": 900,
+  "npu_tops": 15.0,
+  "modem": "Snapdragon X62 5G",
+  "geekbench_single": 1100,
+  "geekbench_multi": 3200,
+  "antutu_score": 760000,
+  "verified": false,
+  "source_urls": [
+    "https://www.qualcomm.com/products/mobile/snapdragon/smartphones/snapdragon-6-series-mobile-platforms/snapdragon-6-gen-3-mobile-platform",
+    "https://en.wikipedia.org/wiki/Snapdragon_6_Gen_3"
+  ]
+}

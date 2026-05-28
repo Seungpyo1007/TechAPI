@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-rtx-4070-ti",
+  "name": "GeForce RTX 4070 Ti",
+  "manufacturer": "nvidia",
+  "architecture": "Ada Lovelace",
+  "release_date": "2023-01-05",
+  "msrp_usd": 799,
+  "cuda_cores": 7680,
+  "stream_processors": null,
+  "rt_cores": 60,
+  "tensor_cores": 240,
+  "memory_gb": 12,
+  "memory_type": "GDDR6X",
+  "memory_bus_bit": 192,
+  "memory_bandwidth_gbps": 504,
+  "base_clock_mhz": 2310,
+  "boost_clock_mhz": 2610,
+  "tdp_w": 285,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4070-ti/",
+    "https://www.techpowerup.com/gpu-specs/geforce-rtx-4070-ti.c3950"
+  ]
+}

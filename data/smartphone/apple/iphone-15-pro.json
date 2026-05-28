@@ -1,0 +1,39 @@
+{
+  "slug": "iphone-15-pro",
+  "name": "iPhone 15 Pro",
+  "brand": "apple",
+  "soc": "apple-a17-pro",
+  "release_date": "2023-09-22",
+  "msrp_usd": 999,
+  "ram_gb": 8,
+  "storage_options_gb": [128, 256, 512, 1024],
+  "display": {
+    "size_inch": 6.1,
+    "resolution": "2556x1179",
+    "refresh_hz": 120,
+    "type": "Super Retina XDR OLED",
+    "brightness_nits": 2000,
+    "ppi": 460
+  },
+  "cameras": [
+    {"type": "main", "mp": 48, "aperture": 1.78, "ois": true, "sensor": "Sony IMX803"},
+    {"type": "ultrawide", "mp": 12, "aperture": 2.2, "ois": false},
+    {"type": "telephoto", "mp": 12, "aperture": 2.8, "ois": true, "optical_zoom": 3},
+    {"type": "selfie", "mp": 12, "aperture": 1.9}
+  ],
+  "battery_mah": 3274,
+  "charging_wired_w": 27,
+  "charging_wireless_w": 15,
+  "weight_g": 187.0,
+  "dimensions": {"height_mm": 146.6, "width_mm": 70.6, "depth_mm": 8.25},
+  "ip_rating": "IP68",
+  "os": "iOS",
+  "os_version": "17",
+  "connectivity": {"wifi": "Wi-Fi 6E", "bluetooth": "5.3", "nfc": true, "usb": "USB-C 3.2"},
+  "image_url": "https://cdn.jsdelivr.net/gh/GetTechAPI/images/smartphones/iphone-15-pro.webp",
+  "verified": true,
+  "source_urls": [
+    "https://www.apple.com/iphone-15-pro/specs/",
+    "https://en.wikipedia.org/wiki/IPhone_15_Pro"
+  ]
+}

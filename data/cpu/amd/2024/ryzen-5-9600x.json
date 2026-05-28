@@ -1,0 +1,31 @@
+{
+  "slug": "ryzen-5-9600x",
+  "name": "AMD Ryzen 5 9600X",
+  "manufacturer": "amd",
+  "release_date": "2024-08-31",
+  "segment": "desktop",
+  "architecture": "Zen 5",
+  "socket": "AM5",
+  "process_node": "TSMC N4",
+  "cores": 6,
+  "threads": 12,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 3.9,
+  "boost_clock_ghz": 5.4,
+  "l3_cache_mb": 32.0,
+  "tdp_w": 65,
+  "max_tdp_w": 88,
+  "integrated_graphics": "AMD Radeon Graphics (2CU)",
+  "memory_support": "DDR5-5600",
+  "cinebench_r23_single": 2220,
+  "cinebench_r23_multi": 16500,
+  "geekbench_single": 3050,
+  "geekbench_multi": 11000,
+  "msrp_usd": 279,
+  "verified": true,
+  "source_urls": [
+    "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-5-9600x.html",
+    "https://en.wikipedia.org/wiki/Zen_5"
+  ]
+}

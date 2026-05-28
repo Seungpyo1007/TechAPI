@@ -1,0 +1,27 @@
+{
+  "slug": "radeon-rx-6800-xt",
+  "name": "Radeon RX 6800 XT",
+  "manufacturer": "amd",
+  "architecture": "RDNA 2",
+  "release_date": "2020-11-18",
+  "msrp_usd": 649,
+  "cuda_cores": null,
+  "stream_processors": 4608,
+  "rt_cores": 72,
+  "tensor_cores": null,
+  "memory_gb": 16,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 256,
+  "memory_bandwidth_gbps": 512,
+  "base_clock_mhz": 1825,
+  "boost_clock_mhz": 2250,
+  "tdp_w": 300,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.amd.com/en/products/graphics/amd-radeon-rx-6800-xt.html",
+    "https://www.techpowerup.com/gpu-specs/radeon-rx-6800-xt.c3682"
+  ]
+}
