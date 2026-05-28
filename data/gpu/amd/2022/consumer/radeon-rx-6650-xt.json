@@ -1,0 +1,27 @@
+{
+  "slug": "radeon-rx-6650-xt",
+  "name": "Radeon RX 6650 XT",
+  "manufacturer": "amd",
+  "architecture": "RDNA 2",
+  "release_date": "2022-05-10",
+  "msrp_usd": 399,
+  "cuda_cores": null,
+  "stream_processors": 2048,
+  "rt_cores": 32,
+  "tensor_cores": null,
+  "memory_gb": 8,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 128,
+  "memory_bandwidth_gbps": 280,
+  "base_clock_mhz": 2055,
+  "boost_clock_mhz": 2635,
+  "tdp_w": 180,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Radeon_RX_6000_series",
+    "https://www.techpowerup.com/gpu-specs/radeon-rx-6650-xt.c3814"
+  ]
+}

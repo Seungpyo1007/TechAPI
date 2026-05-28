@@ -1,0 +1,27 @@
+{
+  "slug": "radeon-rx-9060-xt",
+  "name": "Radeon RX 9060 XT 16GB",
+  "manufacturer": "amd",
+  "architecture": "RDNA 4",
+  "release_date": "2025-06-05",
+  "msrp_usd": 349,
+  "cuda_cores": null,
+  "stream_processors": 2048,
+  "rt_cores": 32,
+  "tensor_cores": 64,
+  "memory_gb": 16,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 128,
+  "memory_bandwidth_gbps": 320,
+  "base_clock_mhz": 1700,
+  "boost_clock_mhz": 3130,
+  "tdp_w": 160,
+  "pcie_version": "PCIe 5.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Radeon_RX_9000_series",
+    "https://www.techpowerup.com/gpu-specs/radeon-rx-9060-xt.c4341"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "b300",
+  "name": "B300 (Blackwell Ultra)",
+  "manufacturer": "nvidia",
+  "architecture": "Blackwell Ultra",
+  "release_date": "2025-09-22",
+  "msrp_usd": 50000,
+  "cuda_cores": 17536,
+  "stream_processors": null,
+  "rt_cores": null,
+  "tensor_cores": 548,
+  "memory_gb": 288,
+  "memory_type": "HBM3e",
+  "memory_bus_bit": 8192,
+  "memory_bandwidth_gbps": 8000,
+  "base_clock_mhz": 1365,
+  "boost_clock_mhz": 2017,
+  "tdp_w": 1400,
+  "pcie_version": "PCIe 5.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/data-center/hgx/",
+    "https://www.techpowerup.com/gpu-specs/b300-sxm-288-gb.c4317"
+  ]
+}

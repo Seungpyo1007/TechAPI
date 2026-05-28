@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-rtx-4070-ti-super",
+  "name": "GeForce RTX 4070 Ti Super",
+  "manufacturer": "nvidia",
+  "architecture": "Ada Lovelace",
+  "release_date": "2024-01-24",
+  "msrp_usd": 799,
+  "cuda_cores": 8448,
+  "stream_processors": null,
+  "rt_cores": 66,
+  "tensor_cores": 264,
+  "memory_gb": 16,
+  "memory_type": "GDDR6X",
+  "memory_bus_bit": 256,
+  "memory_bandwidth_gbps": 672,
+  "base_clock_mhz": 2340,
+  "boost_clock_mhz": 2610,
+  "tdp_w": 285,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/GeForce_40_series",
+    "https://www.techpowerup.com/gpu-specs/geforce-rtx-4070-ti-super.c4031"
+  ]
+}

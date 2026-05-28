@@ -1,0 +1,27 @@
+{
+  "slug": "radeon-pro-w7900",
+  "name": "Radeon Pro W7900",
+  "manufacturer": "amd",
+  "architecture": "RDNA 3",
+  "release_date": "2023-04-13",
+  "msrp_usd": 3999,
+  "cuda_cores": null,
+  "stream_processors": 6144,
+  "rt_cores": 96,
+  "tensor_cores": null,
+  "memory_gb": 48,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 384,
+  "memory_bandwidth_gbps": 864,
+  "base_clock_mhz": 1295,
+  "boost_clock_mhz": 2495,
+  "tdp_w": 295,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Radeon_Pro",
+    "https://www.techpowerup.com/gpu-specs/radeon-pro-w7900.c4022"
+  ]
+}

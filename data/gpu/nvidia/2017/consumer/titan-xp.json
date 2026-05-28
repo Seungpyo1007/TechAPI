@@ -1,0 +1,27 @@
+{
+  "slug": "titan-xp",
+  "name": "TITAN Xp",
+  "manufacturer": "nvidia",
+  "architecture": "Pascal",
+  "release_date": "2017-04-07",
+  "msrp_usd": 1200,
+  "cuda_cores": 3840,
+  "stream_processors": null,
+  "rt_cores": null,
+  "tensor_cores": null,
+  "memory_gb": 12,
+  "memory_type": "GDDR5X",
+  "memory_bus_bit": 384,
+  "memory_bandwidth_gbps": 548,
+  "base_clock_mhz": 1405,
+  "boost_clock_mhz": 1582,
+  "tdp_w": 250,
+  "pcie_version": "PCIe 3.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/GeForce_10_series",
+    "https://www.techpowerup.com/gpu-specs/titan-xp.c2948"
+  ]
+}

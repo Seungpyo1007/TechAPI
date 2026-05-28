@@ -1,0 +1,27 @@
+{
+  "slug": "radeon-rx-6950-xt",
+  "name": "Radeon RX 6950 XT",
+  "manufacturer": "amd",
+  "architecture": "RDNA 2",
+  "release_date": "2022-05-10",
+  "msrp_usd": 1099,
+  "cuda_cores": null,
+  "stream_processors": 5120,
+  "rt_cores": 80,
+  "tensor_cores": null,
+  "memory_gb": 16,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 256,
+  "memory_bandwidth_gbps": 576,
+  "base_clock_mhz": 1925,
+  "boost_clock_mhz": 2310,
+  "tdp_w": 335,
+  "pcie_version": "PCIe 4.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Radeon_RX_6000_series",
+    "https://www.techpowerup.com/gpu-specs/radeon-rx-6950-xt.c3840"
+  ]
+}

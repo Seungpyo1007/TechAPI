@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-gtx-780-ti",
+  "name": "GeForce GTX 780 Ti",
+  "manufacturer": "nvidia",
+  "architecture": "Kepler",
+  "release_date": "2013-11-07",
+  "msrp_usd": 699,
+  "cuda_cores": 2880,
+  "stream_processors": null,
+  "rt_cores": null,
+  "tensor_cores": null,
+  "memory_gb": 3,
+  "memory_type": "GDDR5",
+  "memory_bus_bit": 384,
+  "memory_bandwidth_gbps": 336,
+  "base_clock_mhz": 875,
+  "boost_clock_mhz": 928,
+  "tdp_w": 250,
+  "pcie_version": "PCIe 3.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/GeForce_700_series",
+    "https://www.techpowerup.com/gpu-specs/geforce-gtx-780-ti.c2512"
+  ]
+}

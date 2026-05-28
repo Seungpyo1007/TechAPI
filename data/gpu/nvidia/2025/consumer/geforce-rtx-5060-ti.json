@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-rtx-5060-ti",
+  "name": "GeForce RTX 5060 Ti 16GB",
+  "manufacturer": "nvidia",
+  "architecture": "Blackwell",
+  "release_date": "2025-04-16",
+  "msrp_usd": 429,
+  "cuda_cores": 4608,
+  "stream_processors": null,
+  "rt_cores": 36,
+  "tensor_cores": 144,
+  "memory_gb": 16,
+  "memory_type": "GDDR7",
+  "memory_bus_bit": 128,
+  "memory_bandwidth_gbps": 448,
+  "base_clock_mhz": 2250,
+  "boost_clock_mhz": 2572,
+  "tdp_w": 180,
+  "pcie_version": "PCIe 5.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/GeForce_RTX_50_series",
+    "https://www.techpowerup.com/gpu-specs/geforce-rtx-5060-ti.c4220"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "radeon-r9-270x",
+  "name": "Radeon R9 270X",
+  "manufacturer": "amd",
+  "architecture": "GCN 1",
+  "release_date": "2013-10-08",
+  "msrp_usd": 199,
+  "cuda_cores": null,
+  "stream_processors": 1280,
+  "rt_cores": null,
+  "tensor_cores": null,
+  "memory_gb": 2,
+  "memory_type": "GDDR5",
+  "memory_bus_bit": 256,
+  "memory_bandwidth_gbps": 179,
+  "base_clock_mhz": 1050,
+  "boost_clock_mhz": 1050,
+  "tdp_w": 180,
+  "pcie_version": "PCIe 3.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Radeon_Rx_200_series",
+    "https://www.techpowerup.com/gpu-specs/radeon-r9-270x.c1868"
+  ]
+}

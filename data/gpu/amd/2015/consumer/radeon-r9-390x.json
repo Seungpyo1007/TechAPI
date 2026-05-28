@@ -1,0 +1,27 @@
+{
+  "slug": "radeon-r9-390x",
+  "name": "Radeon R9 390X",
+  "manufacturer": "amd",
+  "architecture": "GCN 2",
+  "release_date": "2015-06-18",
+  "msrp_usd": 429,
+  "cuda_cores": null,
+  "stream_processors": 2816,
+  "rt_cores": null,
+  "tensor_cores": null,
+  "memory_gb": 8,
+  "memory_type": "GDDR5",
+  "memory_bus_bit": 512,
+  "memory_bandwidth_gbps": 384,
+  "base_clock_mhz": 1000,
+  "boost_clock_mhz": 1050,
+  "tdp_w": 275,
+  "pcie_version": "PCIe 3.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Radeon_Rx_300_series",
+    "https://www.techpowerup.com/gpu-specs/radeon-r9-390x.c2680"
+  ]
+}

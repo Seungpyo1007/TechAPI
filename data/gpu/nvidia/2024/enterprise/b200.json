@@ -1,0 +1,27 @@
+{
+  "slug": "b200",
+  "name": "B200",
+  "manufacturer": "nvidia",
+  "architecture": "Blackwell",
+  "release_date": "2024-03-18",
+  "msrp_usd": 40000,
+  "cuda_cores": 16896,
+  "stream_processors": null,
+  "rt_cores": null,
+  "tensor_cores": 528,
+  "memory_gb": 192,
+  "memory_type": "HBM3e",
+  "memory_bus_bit": 8192,
+  "memory_bandwidth_gbps": 8000,
+  "base_clock_mhz": 1365,
+  "boost_clock_mhz": 1965,
+  "tdp_w": 1000,
+  "pcie_version": "PCIe 5.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/data-center/dgx-b200/",
+    "https://www.techpowerup.com/gpu-specs/b200-sxm-192-gb.c4210"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "quadro-rtx-5000",
+  "name": "Quadro RTX 5000",
+  "manufacturer": "nvidia",
+  "architecture": "Turing",
+  "release_date": "2018-08-13",
+  "msrp_usd": 2299,
+  "cuda_cores": 3072,
+  "stream_processors": null,
+  "rt_cores": 48,
+  "tensor_cores": 384,
+  "memory_gb": 16,
+  "memory_type": "GDDR6",
+  "memory_bus_bit": 256,
+  "memory_bandwidth_gbps": 448,
+  "base_clock_mhz": 1620,
+  "boost_clock_mhz": 1815,
+  "tdp_w": 230,
+  "pcie_version": "PCIe 3.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Nvidia_Quadro#Quadro_RTX_series",
+    "https://www.techpowerup.com/gpu-specs/quadro-rtx-5000.c3308"
+  ]
+}

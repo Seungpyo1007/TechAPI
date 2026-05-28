@@ -1,0 +1,27 @@
+{
+  "slug": "geforce-gtx-960",
+  "name": "GeForce GTX 960",
+  "manufacturer": "nvidia",
+  "architecture": "Maxwell",
+  "release_date": "2015-01-22",
+  "msrp_usd": 199,
+  "cuda_cores": 1024,
+  "stream_processors": null,
+  "rt_cores": null,
+  "tensor_cores": null,
+  "memory_gb": 2,
+  "memory_type": "GDDR5",
+  "memory_bus_bit": 128,
+  "memory_bandwidth_gbps": 112,
+  "base_clock_mhz": 1127,
+  "boost_clock_mhz": 1178,
+  "tdp_w": 120,
+  "pcie_version": "PCIe 3.0",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/GeForce_900_series",
+    "https://www.techpowerup.com/gpu-specs/geforce-gtx-960.c2625"
+  ]
+}

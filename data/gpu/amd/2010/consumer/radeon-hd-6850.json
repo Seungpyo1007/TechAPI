@@ -1,0 +1,27 @@
+{
+  "slug": "radeon-hd-6850",
+  "name": "Radeon HD 6850",
+  "manufacturer": "amd",
+  "architecture": "TeraScale 2",
+  "release_date": "2010-10-22",
+  "msrp_usd": 179,
+  "cuda_cores": null,
+  "stream_processors": 960,
+  "rt_cores": null,
+  "tensor_cores": null,
+  "memory_gb": 1,
+  "memory_type": "GDDR5",
+  "memory_bus_bit": 256,
+  "memory_bandwidth_gbps": 128,
+  "base_clock_mhz": 775,
+  "boost_clock_mhz": 775,
+  "tdp_w": 127,
+  "pcie_version": "PCIe 2.1",
+  "blender_score": null,
+  "timespy_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Radeon_HD_6000_series",
+    "https://www.techpowerup.com/gpu-specs/radeon-hd-6850.c272"
+  ]
+}
