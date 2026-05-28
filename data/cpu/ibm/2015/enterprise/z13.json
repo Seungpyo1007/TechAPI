@@ -1,0 +1,31 @@
+{
+  "slug": "z13",
+  "name": "IBM z13",
+  "manufacturer": "ibm",
+  "release_date": "2015-01-14",
+  "segment": "server",
+  "architecture": "z/Architecture (z13)",
+  "socket": "Multi-chip module",
+  "process_node": "IBM 22nm SOI eDRAM",
+  "cores": 8,
+  "threads": 16,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 5.0,
+  "boost_clock_ghz": null,
+  "l3_cache_mb": 64.0,
+  "tdp_w": null,
+  "max_tdp_w": null,
+  "integrated_graphics": null,
+  "memory_support": "DDR3 ECC RAIM",
+  "cinebench_r23_single": null,
+  "cinebench_r23_multi": null,
+  "geekbench_single": null,
+  "geekbench_multi": null,
+  "msrp_usd": null,
+  "verified": true,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/IBM_z13_(microprocessor)",
+    "https://en.wikichip.org/wiki/ibm/microarchitectures/z13"
+  ]
+}

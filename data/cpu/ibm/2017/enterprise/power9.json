@@ -1,0 +1,31 @@
+{
+  "slug": "power9",
+  "name": "IBM POWER9 (Nimbus 22-core)",
+  "manufacturer": "ibm",
+  "release_date": "2017-12-05",
+  "segment": "server",
+  "architecture": "POWER9",
+  "socket": "SP3",
+  "process_node": "GF 14nm HP SOI",
+  "cores": 22,
+  "threads": 88,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 2.75,
+  "boost_clock_ghz": 3.8,
+  "l3_cache_mb": 110.0,
+  "tdp_w": 190,
+  "max_tdp_w": 250,
+  "integrated_graphics": null,
+  "memory_support": "DDR4-2667 octa-channel ECC",
+  "cinebench_r23_single": null,
+  "cinebench_r23_multi": null,
+  "geekbench_single": null,
+  "geekbench_multi": null,
+  "msrp_usd": null,
+  "verified": true,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/POWER9",
+    "https://en.wikichip.org/wiki/ibm/power9"
+  ]
+}

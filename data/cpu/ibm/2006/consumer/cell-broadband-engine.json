@@ -1,0 +1,31 @@
+{
+  "slug": "cell-broadband-engine",
+  "name": "IBM Cell Broadband Engine (PS3)",
+  "manufacturer": "ibm",
+  "release_date": "2006-11-11",
+  "segment": "desktop",
+  "architecture": "Cell BE (PPE + 8 SPE)",
+  "socket": "PS3 BGA / Blade module",
+  "process_node": "IBM 90nm SOI",
+  "cores": 9,
+  "threads": 18,
+  "p_cores": 1,
+  "e_cores": 8,
+  "base_clock_ghz": 3.2,
+  "boost_clock_ghz": null,
+  "l3_cache_mb": null,
+  "tdp_w": 80,
+  "max_tdp_w": null,
+  "integrated_graphics": null,
+  "memory_support": "XDR DRAM 256MB (PS3) / DDR2 (blade)",
+  "cinebench_r23_single": null,
+  "cinebench_r23_multi": null,
+  "geekbench_single": null,
+  "geekbench_multi": null,
+  "msrp_usd": null,
+  "verified": true,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Cell_(processor)",
+    "https://en.wikichip.org/wiki/ibm/microarchitectures/cell"
+  ]
+}

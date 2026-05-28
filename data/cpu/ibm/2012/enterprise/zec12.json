@@ -1,0 +1,31 @@
+{
+  "slug": "zec12",
+  "name": "IBM zEnterprise EC12 (z12)",
+  "manufacturer": "ibm",
+  "release_date": "2012-08-28",
+  "segment": "server",
+  "architecture": "z/Architecture (zEC12)",
+  "socket": "Multi-chip module",
+  "process_node": "IBM 32nm SOI",
+  "cores": 6,
+  "threads": 6,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 5.5,
+  "boost_clock_ghz": null,
+  "l3_cache_mb": 48.0,
+  "tdp_w": null,
+  "max_tdp_w": null,
+  "integrated_graphics": null,
+  "memory_support": "DDR3 ECC RAIM",
+  "cinebench_r23_single": null,
+  "cinebench_r23_multi": null,
+  "geekbench_single": null,
+  "geekbench_multi": null,
+  "msrp_usd": null,
+  "verified": true,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/IBM_zEnterprise_EC12",
+    "https://en.wikichip.org/wiki/ibm/microarchitectures/zec12"
+  ]
+}

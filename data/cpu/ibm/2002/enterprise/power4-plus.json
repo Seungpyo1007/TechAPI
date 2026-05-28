@@ -1,0 +1,31 @@
+{
+  "slug": "power4-plus",
+  "name": "IBM POWER4+",
+  "manufacturer": "ibm",
+  "release_date": "2002-11-04",
+  "segment": "server",
+  "architecture": "POWER4+",
+  "socket": "Multi-chip module",
+  "process_node": "IBM 130nm SOI",
+  "cores": 2,
+  "threads": 2,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 1.9,
+  "boost_clock_ghz": null,
+  "l3_cache_mb": 32.0,
+  "tdp_w": 115,
+  "max_tdp_w": null,
+  "integrated_graphics": null,
+  "memory_support": "DDR-266",
+  "cinebench_r23_single": null,
+  "cinebench_r23_multi": null,
+  "geekbench_single": null,
+  "geekbench_multi": null,
+  "msrp_usd": null,
+  "verified": true,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/POWER4",
+    "https://en.wikichip.org/wiki/ibm/power4"
+  ]
+}

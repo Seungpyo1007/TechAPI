@@ -1,0 +1,31 @@
+{
+  "slug": "power7-plus",
+  "name": "IBM POWER7+",
+  "manufacturer": "ibm",
+  "release_date": "2012-10-03",
+  "segment": "server",
+  "architecture": "POWER7+",
+  "socket": "Multi-chip module",
+  "process_node": "IBM 32nm SOI eDRAM",
+  "cores": 8,
+  "threads": 32,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 3.6,
+  "boost_clock_ghz": 4.4,
+  "l3_cache_mb": 80.0,
+  "tdp_w": 200,
+  "max_tdp_w": null,
+  "integrated_graphics": null,
+  "memory_support": "DDR3-1600 octa-channel ECC",
+  "cinebench_r23_single": null,
+  "cinebench_r23_multi": null,
+  "geekbench_single": null,
+  "geekbench_multi": null,
+  "msrp_usd": null,
+  "verified": true,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/POWER7#POWER7+",
+    "https://en.wikichip.org/wiki/ibm/power7"
+  ]
+}

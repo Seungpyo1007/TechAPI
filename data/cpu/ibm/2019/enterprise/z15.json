@@ -1,0 +1,31 @@
+{
+  "slug": "z15",
+  "name": "IBM z15",
+  "manufacturer": "ibm",
+  "release_date": "2019-09-12",
+  "segment": "server",
+  "architecture": "z/Architecture (z15)",
+  "socket": "Multi-chip module",
+  "process_node": "GF 14nm SOI",
+  "cores": 12,
+  "threads": 24,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 5.2,
+  "boost_clock_ghz": null,
+  "l3_cache_mb": 256.0,
+  "tdp_w": null,
+  "max_tdp_w": null,
+  "integrated_graphics": null,
+  "memory_support": "DDR4 ECC RAIM",
+  "cinebench_r23_single": null,
+  "cinebench_r23_multi": null,
+  "geekbench_single": null,
+  "geekbench_multi": null,
+  "msrp_usd": null,
+  "verified": true,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/IBM_z15_(microprocessor)",
+    "https://en.wikichip.org/wiki/ibm/microarchitectures/z15"
+  ]
+}

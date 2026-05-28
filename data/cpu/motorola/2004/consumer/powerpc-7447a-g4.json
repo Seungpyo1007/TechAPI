@@ -1,0 +1,31 @@
+{
+  "slug": "powerpc-7447a-g4",
+  "name": "Freescale PowerPC 7447A (G4)",
+  "manufacturer": "motorola",
+  "release_date": "2004-09-13",
+  "segment": "laptop",
+  "architecture": "PowerPC 7447A (G4)",
+  "socket": "PowerBook G4 module",
+  "process_node": "Freescale 130nm SOI",
+  "cores": 1,
+  "threads": 1,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 1.5,
+  "boost_clock_ghz": null,
+  "l3_cache_mb": null,
+  "tdp_w": 14,
+  "max_tdp_w": null,
+  "integrated_graphics": null,
+  "memory_support": "DDR-400",
+  "cinebench_r23_single": null,
+  "cinebench_r23_multi": null,
+  "geekbench_single": null,
+  "geekbench_multi": null,
+  "msrp_usd": null,
+  "verified": true,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/PowerPC_7450#PowerPC_7447A",
+    "https://en.wikichip.org/wiki/motorola/powerpc/7447a"
+  ]
+}

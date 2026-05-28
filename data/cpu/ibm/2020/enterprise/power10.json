@@ -1,0 +1,31 @@
+{
+  "slug": "power10",
+  "name": "IBM POWER10 (Cirrus 15-core)",
+  "manufacturer": "ibm",
+  "release_date": "2020-09-03",
+  "segment": "server",
+  "architecture": "POWER10",
+  "socket": "MCM",
+  "process_node": "Samsung 7nm EUV",
+  "cores": 15,
+  "threads": 120,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 3.5,
+  "boost_clock_ghz": 4.0,
+  "l3_cache_mb": 120.0,
+  "tdp_w": 240,
+  "max_tdp_w": 300,
+  "integrated_graphics": null,
+  "memory_support": "DDR4/DDR5 OMI 16-channel ECC",
+  "cinebench_r23_single": null,
+  "cinebench_r23_multi": null,
+  "geekbench_single": null,
+  "geekbench_multi": null,
+  "msrp_usd": null,
+  "verified": true,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/POWER10",
+    "https://en.wikichip.org/wiki/ibm/power10"
+  ]
+}

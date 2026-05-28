@@ -1,0 +1,31 @@
+{
+  "slug": "power11",
+  "name": "IBM POWER11 (Cirrus 30-core)",
+  "manufacturer": "ibm",
+  "release_date": "2025-07-25",
+  "segment": "server",
+  "architecture": "POWER11",
+  "socket": "Multi-chip module",
+  "process_node": "Samsung 7nm EUV",
+  "cores": 30,
+  "threads": 240,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 3.9,
+  "boost_clock_ghz": 4.5,
+  "l3_cache_mb": 240.0,
+  "tdp_w": 350,
+  "max_tdp_w": 400,
+  "integrated_graphics": null,
+  "memory_support": "DDR5 OMI 16-channel ECC",
+  "cinebench_r23_single": null,
+  "cinebench_r23_multi": null,
+  "geekbench_single": null,
+  "geekbench_multi": null,
+  "msrp_usd": null,
+  "verified": true,
+  "source_urls": [
+    "https://newsroom.ibm.com/2025-07-08-ibm-introduces-power11-built-for-the-ai-era",
+    "https://en.wikipedia.org/wiki/POWER11"
+  ]
+}
