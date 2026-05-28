@@ -1,0 +1,13 @@
+{
+  "slug": "hisilicon",
+  "name": "HiSilicon",
+  "country": "CN",
+  "founded_year": 2004,
+  "logo_url": null,
+  "website": "https://www.hisilicon.com",
+  "categories": [
+    "soc-designer"
+  ],
+  "description_en": "Chinese fabless semiconductor subsidiary of Huawei; designs the Kirin mobile SoCs and Ascend AI processors.",
+  "description_ko": "화웨이의 중국 팹리스 반도체 자회사. 기린(Kirin) 모바일 SoC와 어센드(Ascend) AI 프로세서를 설계."
+}

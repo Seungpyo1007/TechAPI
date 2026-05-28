@@ -1,0 +1,14 @@
+{
+  "slug": "amd",
+  "name": "AMD",
+  "country": "US",
+  "founded_year": 1969,
+  "logo_url": null,
+  "website": "https://www.amd.com",
+  "categories": [
+    "cpu-designer",
+    "gpu-designer"
+  ],
+  "description_en": "American semiconductor company; makes Ryzen CPUs and Radeon GPUs.",
+  "description_ko": "미국의 반도체 기업. 라이젠 CPU와 라데온 GPU를 생산."
+}
