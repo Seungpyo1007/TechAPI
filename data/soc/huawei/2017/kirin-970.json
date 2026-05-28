@@ -1,0 +1,27 @@
+{
+  "slug": "kirin-970",
+  "name": "Kirin 970",
+  "manufacturer": "huawei",
+  "release_date": "2017-09-02",
+  "process_nm": 10.0,
+  "transistors_billion": 5.5,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "Cortex-A73 + Cortex-A53",
+    "clocks_ghz": [2.36, 1.8]
+  },
+  "gpu_name": "Mali-G72 MP12",
+  "gpu_cores": 12,
+  "gpu_clock_mhz": 850,
+  "npu_tops": 1.92,
+  "modem": "Balong LTE Cat 18",
+  "geekbench_single": 1950,
+  "geekbench_multi": 6500,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/HiSilicon_Kirin",
+    "https://consumer.huawei.com/en/campaign/kirin970/"
+  ]
+}

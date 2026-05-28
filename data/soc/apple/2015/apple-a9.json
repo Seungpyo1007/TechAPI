@@ -1,0 +1,27 @@
+{
+  "slug": "apple-a9",
+  "name": "Apple A9",
+  "manufacturer": "apple",
+  "release_date": "2015-09-09",
+  "process_nm": 14.0,
+  "transistors_billion": 2.0,
+  "cpu_config": {
+    "performance": 2,
+    "efficiency": 0,
+    "architecture": "Apple Twister",
+    "clocks_ghz": [1.85]
+  },
+  "gpu_name": "PowerVR GT7600",
+  "gpu_cores": 6,
+  "gpu_clock_mhz": 650,
+  "npu_tops": null,
+  "modem": null,
+  "geekbench_single": 540,
+  "geekbench_multi": 980,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Apple_A9",
+    "https://support.apple.com/iphone-6s"
+  ]
+}

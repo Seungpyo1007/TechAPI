@@ -1,0 +1,27 @@
+{
+  "slug": "snapdragon-730g",
+  "name": "Snapdragon 730G",
+  "manufacturer": "qualcomm",
+  "release_date": "2019-04-09",
+  "process_nm": 8.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 2,
+    "efficiency": 6,
+    "architecture": "Kryo 470 (Cortex-A76 + A55)",
+    "clocks_ghz": [2.2, 1.8]
+  },
+  "gpu_name": "Adreno 618",
+  "gpu_cores": null,
+  "gpu_clock_mhz": 700,
+  "npu_tops": null,
+  "modem": "Snapdragon X15 LTE",
+  "geekbench_single": 540,
+  "geekbench_multi": 1700,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Qualcomm_Snapdragon",
+    "https://www.qualcomm.com/products/snapdragon-730g-mobile-platform"
+  ]
+}

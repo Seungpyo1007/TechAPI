@@ -1,0 +1,27 @@
+{
+  "slug": "snapdragon-800",
+  "name": "Snapdragon 800",
+  "manufacturer": "qualcomm",
+  "release_date": "2013-07-01",
+  "process_nm": 28.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 0,
+    "architecture": "Krait 400 (custom)",
+    "clocks_ghz": [2.3]
+  },
+  "gpu_name": "Adreno 330",
+  "gpu_cores": null,
+  "gpu_clock_mhz": 450,
+  "npu_tops": null,
+  "modem": "Snapdragon X5 LTE (Cat 4)",
+  "geekbench_single": 950,
+  "geekbench_multi": 2700,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Qualcomm_Snapdragon",
+    "https://www.qualcomm.com/products/snapdragon-800-mobile-platform"
+  ]
+}

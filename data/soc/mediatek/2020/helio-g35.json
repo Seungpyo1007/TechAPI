@@ -1,0 +1,27 @@
+{
+  "slug": "helio-g35",
+  "name": "Helio G35",
+  "manufacturer": "mediatek",
+  "release_date": "2020-09-01",
+  "process_nm": 12.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 0,
+    "efficiency": 8,
+    "architecture": "ARM Cortex-A53",
+    "clocks_ghz": [2.3]
+  },
+  "gpu_name": "PowerVR GE8320",
+  "gpu_cores": null,
+  "gpu_clock_mhz": 680,
+  "npu_tops": null,
+  "modem": "MediaTek LTE Cat 7",
+  "geekbench_single": 175,
+  "geekbench_multi": 920,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/MediaTek_Helio",
+    "https://www.mediatek.com/products/smartphones/mediatek-helio-g35"
+  ]
+}

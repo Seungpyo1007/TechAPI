@@ -1,0 +1,27 @@
+{
+  "slug": "snapdragon-805",
+  "name": "Snapdragon 805",
+  "manufacturer": "qualcomm",
+  "release_date": "2014-11-01",
+  "process_nm": 28.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 0,
+    "architecture": "Krait 450 (custom)",
+    "clocks_ghz": [2.7]
+  },
+  "gpu_name": "Adreno 420",
+  "gpu_cores": null,
+  "gpu_clock_mhz": 600,
+  "npu_tops": null,
+  "modem": null,
+  "geekbench_single": 1100,
+  "geekbench_multi": 3000,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Qualcomm_Snapdragon",
+    "https://www.qualcomm.com/products/snapdragon-805-mobile-platform"
+  ]
+}

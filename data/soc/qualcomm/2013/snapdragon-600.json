@@ -1,0 +1,27 @@
+{
+  "slug": "snapdragon-600",
+  "name": "Snapdragon 600",
+  "manufacturer": "qualcomm",
+  "release_date": "2013-04-01",
+  "process_nm": 28.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 0,
+    "architecture": "Krait 300 (custom)",
+    "clocks_ghz": [1.9]
+  },
+  "gpu_name": "Adreno 320",
+  "gpu_cores": null,
+  "gpu_clock_mhz": 400,
+  "npu_tops": null,
+  "modem": null,
+  "geekbench_single": 550,
+  "geekbench_multi": 1700,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Qualcomm_Snapdragon",
+    "https://www.qualcomm.com/products/snapdragon-600-mobile-platform"
+  ]
+}

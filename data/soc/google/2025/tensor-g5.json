@@ -1,0 +1,27 @@
+{
+  "slug": "tensor-g5",
+  "name": "Google Tensor G5",
+  "manufacturer": "google",
+  "release_date": "2025-08-28",
+  "process_nm": 3.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 1,
+    "efficiency": 7,
+    "architecture": "ARM Cortex (X4 + A725 + A520)",
+    "clocks_ghz": [3.78, 3.05, 2.25]
+  },
+  "gpu_name": "Imagination DXT-48-1536",
+  "gpu_cores": null,
+  "gpu_clock_mhz": null,
+  "npu_tops": null,
+  "modem": "Samsung Exynos 5400",
+  "geekbench_single": null,
+  "geekbench_multi": null,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Google_Tensor",
+    "https://en.wikipedia.org/wiki/Pixel_10"
+  ]
+}

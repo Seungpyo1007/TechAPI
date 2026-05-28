@@ -1,0 +1,27 @@
+{
+  "slug": "snapdragon-7s-gen-4",
+  "name": "Snapdragon 7s Gen 4",
+  "manufacturer": "qualcomm",
+  "release_date": "2025-08-19",
+  "process_nm": 4.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "Kryo (Cortex-A720 + A520)",
+    "clocks_ghz": [2.7, 2.4, 1.8]
+  },
+  "gpu_name": "Adreno 810",
+  "gpu_cores": null,
+  "gpu_clock_mhz": null,
+  "npu_tops": null,
+  "modem": "Snapdragon X63 5G",
+  "geekbench_single": null,
+  "geekbench_multi": null,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://www.qualcomm.com/products/snapdragon-7s-gen-4-mobile-platform",
+    "https://nanoreview.net/en/soc/qualcomm-snapdragon-7s-gen-4"
+  ]
+}

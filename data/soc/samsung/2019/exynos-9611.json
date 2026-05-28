@@ -1,0 +1,27 @@
+{
+  "slug": "exynos-9611",
+  "name": "Exynos 9611",
+  "manufacturer": "samsung",
+  "release_date": "2019-08-08",
+  "process_nm": 10.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "Cortex-A73 + Cortex-A53",
+    "clocks_ghz": [2.3, 1.7]
+  },
+  "gpu_name": "Mali-G72 MP3",
+  "gpu_cores": 3,
+  "gpu_clock_mhz": null,
+  "npu_tops": null,
+  "modem": "Shannon LTE Cat 12",
+  "geekbench_single": 1700,
+  "geekbench_multi": 5500,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Samsung_Exynos",
+    "https://semiconductor.samsung.com/processor/mobile-processor/exynos-9611/"
+  ]
+}

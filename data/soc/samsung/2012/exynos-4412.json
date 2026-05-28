@@ -1,0 +1,27 @@
+{
+  "slug": "exynos-4412",
+  "name": "Exynos 4412",
+  "manufacturer": "samsung",
+  "release_date": "2012-05-29",
+  "process_nm": 32.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 0,
+    "architecture": "ARM Cortex-A9",
+    "clocks_ghz": [1.4]
+  },
+  "gpu_name": "Mali-400 MP4",
+  "gpu_cores": 4,
+  "gpu_clock_mhz": 440,
+  "npu_tops": null,
+  "modem": null,
+  "geekbench_single": 540,
+  "geekbench_multi": 1500,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Exynos",
+    "https://semiconductor.samsung.com/processor/mobile-processor/exynos-4412/"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "exynos-8890",
+  "name": "Exynos 8890",
+  "manufacturer": "samsung",
+  "release_date": "2016-03-11",
+  "process_nm": 14.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "Exynos M1 Mongoose + Cortex-A53",
+    "clocks_ghz": [2.6, 1.6]
+  },
+  "gpu_name": "Mali-T880 MP12",
+  "gpu_cores": 12,
+  "gpu_clock_mhz": 650,
+  "npu_tops": null,
+  "modem": "Shannon 335 LTE",
+  "geekbench_single": 1700,
+  "geekbench_multi": 5500,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Exynos_8890",
+    "https://semiconductor.samsung.com/processor/mobile-processor/exynos-8-series-8890/"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "exynos-7420",
+  "name": "Exynos 7420",
+  "manufacturer": "samsung",
+  "release_date": "2015-04-10",
+  "process_nm": 14.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "Cortex-A57 + Cortex-A53",
+    "clocks_ghz": [2.1, 1.5]
+  },
+  "gpu_name": "Mali-T760 MP8",
+  "gpu_cores": 8,
+  "gpu_clock_mhz": 770,
+  "npu_tops": null,
+  "modem": "Shannon 333 LTE",
+  "geekbench_single": 1400,
+  "geekbench_multi": 4400,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Exynos_7420",
+    "https://semiconductor.samsung.com/processor/mobile-processor/exynos-7-series-7420/"
+  ]
+}

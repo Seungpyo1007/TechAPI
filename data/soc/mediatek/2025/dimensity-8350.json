@@ -1,0 +1,27 @@
+{
+  "slug": "dimensity-8350",
+  "name": "Dimensity 8350",
+  "manufacturer": "mediatek",
+  "release_date": "2024-12-01",
+  "process_nm": 4.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 1,
+    "efficiency": 7,
+    "architecture": "Cortex-A715 + A510",
+    "clocks_ghz": [3.35, 3.2, 2.2]
+  },
+  "gpu_name": "Mali-G615 MC6",
+  "gpu_cores": 6,
+  "gpu_clock_mhz": null,
+  "npu_tops": null,
+  "modem": "MediaTek 5G integrated",
+  "geekbench_single": null,
+  "geekbench_multi": null,
+  "antutu_score": 1500000,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/MediaTek_Dimensity",
+    "https://www.mediatek.com/products/smartphones/dimensity-8350"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "exynos-2500",
+  "name": "Exynos 2500",
+  "manufacturer": "samsung",
+  "release_date": "2025-07-09",
+  "process_nm": 3.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 1,
+    "efficiency": 9,
+    "architecture": "ARM Cortex (X925 + A725 + A520)",
+    "clocks_ghz": [3.3, 2.74, 2.36, 1.8]
+  },
+  "gpu_name": "Xclipse 950",
+  "gpu_cores": null,
+  "gpu_clock_mhz": null,
+  "npu_tops": 24.0,
+  "modem": "Shannon 5163",
+  "geekbench_single": null,
+  "geekbench_multi": null,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Samsung_Exynos",
+    "https://semiconductor.samsung.com/processor/mobile-processor/exynos-2500/"
+  ]
+}

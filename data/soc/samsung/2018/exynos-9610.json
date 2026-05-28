@@ -1,0 +1,27 @@
+{
+  "slug": "exynos-9610",
+  "name": "Exynos 9610",
+  "manufacturer": "samsung",
+  "release_date": "2018-03-13",
+  "process_nm": 10.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 4,
+    "efficiency": 4,
+    "architecture": "Cortex-A73 + Cortex-A53",
+    "clocks_ghz": [2.3, 1.6]
+  },
+  "gpu_name": "Mali-G72 MP3",
+  "gpu_cores": 3,
+  "gpu_clock_mhz": null,
+  "npu_tops": null,
+  "modem": "Shannon LTE Cat 12",
+  "geekbench_single": 1700,
+  "geekbench_multi": 5400,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Samsung_Exynos",
+    "https://semiconductor.samsung.com/processor/mobile-processor/exynos-9610/"
+  ]
+}

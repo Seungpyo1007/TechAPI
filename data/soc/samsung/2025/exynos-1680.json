@@ -1,0 +1,27 @@
+{
+  "slug": "exynos-1680",
+  "name": "Exynos 1680",
+  "manufacturer": "samsung",
+  "release_date": "2025-12-01",
+  "process_nm": 4.0,
+  "transistors_billion": null,
+  "cpu_config": {
+    "performance": 1,
+    "efficiency": 7,
+    "architecture": "ARM Cortex (A720 + A520)",
+    "clocks_ghz": [3.0, 2.6, 2.0]
+  },
+  "gpu_name": "Xclipse 550",
+  "gpu_cores": null,
+  "gpu_clock_mhz": null,
+  "npu_tops": null,
+  "modem": "Shannon 5G integrated",
+  "geekbench_single": null,
+  "geekbench_multi": null,
+  "antutu_score": null,
+  "verified": false,
+  "source_urls": [
+    "https://en.wikipedia.org/wiki/Samsung_Exynos",
+    "https://semiconductor.samsung.com/processor/mobile-processor/exynos-1680/"
+  ]
+}
