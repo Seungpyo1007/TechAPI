@@ -38,8 +38,8 @@ class SmartphoneRead(BaseModel):
     display: dict[str, Any]
     cameras: list[dict[str, Any]]
     battery_mah: int
-    charging_wired_w: int | None = None
-    charging_wireless_w: int | None = None
+    charging_wired_w: float | None = None
+    charging_wireless_w: float | None = None
     weight_g: float
     dimensions: dict[str, Any]
     ip_rating: str | None = None

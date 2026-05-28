@@ -39,8 +39,8 @@ class Smartphone(SQLModel, table=True):
 
     # Battery
     battery_mah: int
-    charging_wired_w: int | None = None
-    charging_wireless_w: int | None = None
+    charging_wired_w: float | None = None
+    charging_wireless_w: float | None = None
 
     # Physical
     weight_g: float
