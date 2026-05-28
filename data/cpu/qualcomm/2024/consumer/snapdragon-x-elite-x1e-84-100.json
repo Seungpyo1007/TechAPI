@@ -1,0 +1,31 @@
+{
+  "slug": "snapdragon-x-elite-x1e-84-100",
+  "name": "Qualcomm Snapdragon X Elite X1E-84-100",
+  "manufacturer": "qualcomm",
+  "release_date": "2024-06-18",
+  "segment": "laptop",
+  "architecture": "Oryon (Armv8.7)",
+  "socket": "BGA",
+  "process_node": "TSMC N4",
+  "cores": 12,
+  "threads": 12,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 3.8,
+  "boost_clock_ghz": 4.2,
+  "l3_cache_mb": 42.0,
+  "tdp_w": 23,
+  "max_tdp_w": 80,
+  "integrated_graphics": "Qualcomm Adreno X1 (4.6 TFLOPS)",
+  "memory_support": "LPDDR5X-8448 quad-channel",
+  "cinebench_r23_single": 1900,
+  "cinebench_r23_multi": 16500,
+  "geekbench_single": 2900,
+  "geekbench_multi": 15500,
+  "msrp_usd": null,
+  "verified": true,
+  "source_urls": [
+    "https://www.qualcomm.com/products/mobile-compute/snapdragon/snapdragon-x-series/snapdragon-x-elite",
+    "https://en.wikipedia.org/wiki/Snapdragon_X"
+  ]
+}

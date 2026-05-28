@@ -1,0 +1,31 @@
+{
+  "slug": "grace-cpu-superchip",
+  "name": "NVIDIA Grace CPU Superchip",
+  "manufacturer": "nvidia",
+  "release_date": "2023-05-29",
+  "segment": "server",
+  "architecture": "Arm Neoverse V2",
+  "socket": "SXM-style module",
+  "process_node": "TSMC N4",
+  "cores": 144,
+  "threads": 144,
+  "p_cores": null,
+  "e_cores": null,
+  "base_clock_ghz": 3.1,
+  "boost_clock_ghz": 3.55,
+  "l3_cache_mb": 234.0,
+  "tdp_w": 500,
+  "max_tdp_w": 500,
+  "integrated_graphics": null,
+  "memory_support": "LPDDR5X-8533 (up to 960GB)",
+  "cinebench_r23_single": 1400,
+  "cinebench_r23_multi": 165000,
+  "geekbench_single": 1750,
+  "geekbench_multi": 75000,
+  "msrp_usd": null,
+  "verified": true,
+  "source_urls": [
+    "https://www.nvidia.com/en-us/data-center/grace-cpu/",
+    "https://en.wikipedia.org/wiki/NVIDIA_Grace"
+  ]
+}
