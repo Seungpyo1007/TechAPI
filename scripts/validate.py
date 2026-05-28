@@ -17,7 +17,20 @@ DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 
-BRAND_REQUIRED = {"slug", "name"}
+BRAND_REQUIRED = {"slug", "name", "country", "categories"}
+BRAND_CATEGORIES = {
+    "smartphone-oem",
+    "soc-designer",
+    "cpu-designer",
+    "gpu-designer",
+    "ip-licensor",
+    "aib-partner",
+    "pc-oem",
+    "chipset-maker",
+    "sub-brand",
+    "defunct",
+}
+COUNTRY_RE = re.compile(r"^[A-Z]{2}$")
 SOC_REQUIRED = {"slug", "name", "manufacturer", "release_date", "process_nm", "gpu_name"}
 PHONE_REQUIRED = {
     "slug",
@@ -114,13 +127,39 @@ def validate() -> list[str]:
         _check_slug(fname, rec.get("slug"), errors)
         if "founded_year" in rec:
             _check_range(fname, "founded_year", rec["founded_year"], 1800, 2100, errors)
+        country = rec.get("country")
+        if country is not None and not (isinstance(country, str) and COUNTRY_RE.match(country)):
+            errors.append(f"{fname}: country '{country}' must be ISO 3166 alpha-2 (e.g. 'KR')")
+        cats = rec.get("categories")
+        if not isinstance(cats, list) or not cats:
+            errors.append(f"{fname}: categories must be a non-empty list")
+        else:
+            bad = [c for c in cats if c not in BRAND_CATEGORIES]
+            if bad:
+                errors.append(
+                    f"{fname}: invalid categories {bad}; allowed = {sorted(BRAND_CATEGORIES)}"
+                )
+            if len(set(cats)) != len(cats):
+                errors.append(f"{fname}: categories contains duplicates")
+        # Path convention: brand/<country_lower>/<slug>.json
+        parts = Path(fname).parts
+        if len(parts) != 3:
+            errors.append(
+                f"{fname}: must live at 'brand/<country_lower>/<slug>.json' "
+                f"(got {len(parts) - 1} subpath components)"
+            )
+        elif isinstance(country, str) and parts[1] != country.lower():
+            errors.append(
+                f"{fname}: lives in '{parts[1]}/' but country='{country}' "
+                f"(expected '{country.lower()}/')"
+            )
 
     for fname, rec in socs:
         _check_required(fname, rec, SOC_REQUIRED, errors)
         _check_slug(fname, rec.get("slug"), errors)
         if "release_date" in rec:
             _check_date(fname, rec["release_date"], errors)
-        _check_range(fname, "process_nm", rec.get("process_nm"), 1.0, 14.0, errors)
+        _check_range(fname, "process_nm", rec.get("process_nm"), 1.0, 100.0, errors)
         if rec.get("manufacturer") not in brand_slugs:
             errors.append(f"{fname}: manufacturer '{rec.get('manufacturer')}' not a known brand")
 
@@ -144,10 +183,10 @@ def validate() -> list[str]:
         _check_slug(fname, rec.get("slug"), errors)
         if "release_date" in rec:
             _check_date(fname, rec["release_date"], errors)
-        _check_range(fname, "memory_gb", rec.get("memory_gb"), 1, 128, errors)
-        _check_range(fname, "tdp_w", rec.get("tdp_w"), 1, 1000, errors)
+        _check_range(fname, "memory_gb", rec.get("memory_gb"), 0.001, 512, errors)
+        _check_range(fname, "tdp_w", rec.get("tdp_w"), 1, 3000, errors)
         if "msrp_usd" in rec:
-            _check_range(fname, "msrp_usd", rec["msrp_usd"], 50, 50000, errors)
+            _check_range(fname, "msrp_usd", rec["msrp_usd"], 50, 100000, errors)
         if rec.get("manufacturer") not in brand_slugs:
             errors.append(f"{fname}: manufacturer '{rec.get('manufacturer')}' not a known brand")
 
@@ -157,8 +196,8 @@ def validate() -> list[str]:
         _check_slug(fname, rec.get("slug"), errors)
         if "release_date" in rec:
             _check_date(fname, rec["release_date"], errors)
-        _check_range(fname, "cores", rec.get("cores"), 1, 256, errors)
-        _check_range(fname, "threads", rec.get("threads"), 1, 512, errors)
+        _check_range(fname, "cores", rec.get("cores"), 1, 512, errors)
+        _check_range(fname, "threads", rec.get("threads"), 1, 1024, errors)
         if "msrp_usd" in rec:
             _check_range(fname, "msrp_usd", rec["msrp_usd"], 20, 50000, errors)
         if rec.get("segment") not in valid_segments:

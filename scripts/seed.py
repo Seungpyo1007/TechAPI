@@ -56,6 +56,9 @@ def seed(session: Session, data_dir: Path = DATA_DIR) -> dict[str, int]:
     for record in _load_dir(data_dir / "brand"):
         if record["slug"] in brand_slugs:
             continue
+        # `categories` lives in the JSON for browsing/validation only — the Brand
+        # table model does not (yet) carry it, so drop before construction.
+        record.pop("categories", None)
         session.add(Brand(**record))
         counts["brands"] += 1
     session.commit()
